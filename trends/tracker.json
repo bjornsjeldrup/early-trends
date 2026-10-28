@@ -2,12 +2,12 @@
   "batch_identified_on": "2026-10-28",
   "picks": [
     {
-      "id": "pop-mart-twinkle-twinkle",
-      "slug": "pop-mart-twinkle-twinkle",
-      "product_name": "Pop Mart Twinkle Twinkle",
+      "id": "smiski-living-series",
+      "slug": "smiski-living-series",
+      "product_name": "Smiski Living Series",
       "category": "toys-collectibles",
       "identified_on": "2026-10-28",
-      "stage_at_identification": "Early in the West",
+      "stage_at_identification": "Early\u2013mid",
       "status": "watching",
       "last_reviewed": null,
       "review_notes": []
@@ -57,12 +57,12 @@
       "review_notes": []
     },
     {
-      "id": "day-out-cinnamon-bun",
-      "slug": "day-out-cinnamon-bun",
-      "product_name": "Day Out Cinnamon Bun protein balls",
+      "id": "fishwife-tinned-fish",
+      "slug": "fishwife-tinned-fish",
+      "product_name": "Fishwife Tinned Fish Forever pack",
       "category": "food-drink",
       "identified_on": "2026-10-28",
-      "stage_at_identification": "Early",
+      "stage_at_identification": "Early\u2013mid",
       "status": "watching",
       "last_reviewed": null,
       "review_notes": []
@@ -101,20 +101,20 @@
       "review_notes": []
     },
     {
-      "id": "camp-snap-2",
-      "slug": "camp-snap-2",
-      "product_name": "Camp Snap 2",
+      "id": "camp-snap-screen-free",
+      "slug": "camp-snap-screen-free",
+      "product_name": "Camp Snap screen-free camera",
       "category": "tech-gadgets",
       "identified_on": "2026-10-28",
-      "stage_at_identification": "Early",
+      "stage_at_identification": "Early\u2013mid",
       "status": "watching",
       "last_reviewed": null,
       "review_notes": []
     },
     {
-      "id": "puma-deviate-nitro-elite-4-hyrox",
-      "slug": "puma-deviate-nitro-elite-4-hyrox",
-      "product_name": "PUMA Deviate Nitro Elite 4 HYROX",
+      "id": "selkirk-amped-control",
+      "slug": "selkirk-amped-control",
+      "product_name": "Selkirk AMPED Control Invikta",
       "category": "sports-outdoors",
       "identified_on": "2026-10-28",
       "stage_at_identification": "Mid",
@@ -189,10 +189,21 @@
       "review_notes": []
     },
     {
-      "id": "zippypaws-jigglerz-pickle",
-      "slug": "zippypaws-jigglerz-pickle",
-      "product_name": "ZippyPaws Jigglerz Pickle",
+      "id": "zippypaws-burrow-hot-cocoa",
+      "slug": "zippypaws-burrow-hot-cocoa",
+      "product_name": "ZippyPaws Burrow Hot Cocoa",
       "category": "pet-supplies",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Early\u2013mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "made-in-carbon-steel-griddle",
+      "slug": "made-in-carbon-steel-griddle",
+      "product_name": "Made In carbon steel griddle",
+      "category": "kitchen-dining",
       "identified_on": "2026-10-28",
       "stage_at_identification": "Early",
       "status": "watching",
@@ -200,9 +211,9 @@
       "review_notes": []
     },
     {
-      "id": "sabre-paris-bistrot-flatware",
-      "slug": "sabre-paris-bistrot-flatware",
-      "product_name": "Sabre Paris Bistrot flatware",
+      "id": "our-place-wonder-oven",
+      "slug": "our-place-wonder-oven",
+      "product_name": "Our Place Wonder Oven",
       "category": "kitchen-dining",
       "identified_on": "2026-10-28",
       "stage_at_identification": "Mid",
@@ -211,20 +222,9 @@
       "review_notes": []
     },
     {
-      "id": "fellow-opus-2",
-      "slug": "fellow-opus-2",
-      "product_name": "Fellow Opus 2",
-      "category": "kitchen-dining",
-      "identified_on": "2026-10-28",
-      "stage_at_identification": "Early",
-      "status": "watching",
-      "last_reviewed": null,
-      "review_notes": []
-    },
-    {
-      "id": "rhode-peptide-lip-shape",
-      "slug": "rhode-peptide-lip-shape",
-      "product_name": "Rhode Peptide Lip Shape",
+      "id": "summer-fridays-lip-butter-balm",
+      "slug": "summer-fridays-lip-butter-balm",
+      "product_name": "Summer Fridays Lip Butter Balm",
       "category": "beauty-makeup",
       "identified_on": "2026-10-28",
       "stage_at_identification": "Mid",
@@ -233,12 +233,12 @@
       "review_notes": []
     },
     {
-      "id": "mushi-ambient-mushroom-light",
-      "slug": "mushi-ambient-mushroom-light",
-      "product_name": "Mushi Ambient Mushroom Light",
+      "id": "weilailux-mushroom-lamp",
+      "slug": "weilailux-mushroom-lamp",
+      "product_name": "WEILAILUX cordless mushroom lamp",
       "category": "home-decor",
       "identified_on": "2026-10-28",
-      "stage_at_identification": "Early",
+      "stage_at_identification": "Mid",
       "status": "watching",
       "last_reviewed": null,
       "review_notes": []
