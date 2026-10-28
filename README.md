@@ -27,7 +27,7 @@ Signals-by-category summary table: trends/how-we-spot-trends.html#signals-by-cat
 Twelve real picks are published under `trends/`, linked from each category's
 "Trends we're watching" section, from `trends/index.html`, and as three featured
 cards on the homepage (Vaseline Originals, BubblePlush, Emma M. Lion).
-The Labubu card remains a historical case study. Signal meters are illustrative.
+The Labubu card remains a historical case study. Signal meters summarize the cited sources.
 Each pick is marked Identified on October 28, 2026 (2026-10-28). Machine-readable
 rows live in `trends/tracker.json` (status `watching`; `last_reviewed` is null).
 Product links are plain merchant or source URLs with no affiliate ID yet.
