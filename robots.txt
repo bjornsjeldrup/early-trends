@@ -1,0 +1,8 @@
+# Early Trends
+# Note: on a GitHub *project* site this file lives at /early-trends/robots.txt, which crawlers
+# do not read (they only read the domain root). It becomes active if you move to a user site
+# or custom domain. Submit the sitemap in Google Search Console meanwhile.
+User-agent: *
+Allow: /
+
+Sitemap: https://bjornsjeldrup.github.io/early-trends/sitemap.xml
