@@ -13,6 +13,17 @@
       "review_notes": []
     },
     {
+      "id": "mga-miniverse-animals-series-3",
+      "slug": "mga-miniverse-animals-series-3",
+      "product_name": "MGA Miniverse Animals Series 3",
+      "category": "toys-collectibles",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Early\u2013mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
       "id": "kitsch-zig-zag-headbands",
       "slug": "kitsch-zig-zag-headbands",
       "product_name": "Kitsch zig-zag headbands",
@@ -24,12 +35,12 @@
       "review_notes": []
     },
     {
-      "id": "vaseline-originals-brow-tamer-jelly",
-      "slug": "vaseline-originals-brow-tamer-jelly",
-      "product_name": "Vaseline Originals Brow Tamer Jelly",
-      "category": "beauty-makeup",
+      "id": "crocs-getaway-platform-toe-loop",
+      "slug": "crocs-getaway-platform-toe-loop",
+      "product_name": "Crocs Getaway Platform Toe Loop",
+      "category": "fashion-apparel",
       "identified_on": "2026-10-28",
-      "stage_at_identification": "Very early",
+      "stage_at_identification": "Early\u2013mid",
       "status": "watching",
       "last_reviewed": null,
       "review_notes": []
@@ -40,7 +51,18 @@
       "product_name": "Hojicha lattes",
       "category": "food-drink",
       "identified_on": "2026-10-28",
-      "stage_at_identification": "Early–mid",
+      "stage_at_identification": "Early\u2013mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "day-out-cinnamon-bun",
+      "slug": "day-out-cinnamon-bun",
+      "product_name": "Day Out Cinnamon Bun protein balls",
+      "category": "food-drink",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Early",
       "status": "watching",
       "last_reviewed": null,
       "review_notes": []
@@ -57,6 +79,17 @@
       "review_notes": []
     },
     {
+      "id": "roar-varsha-bajaj",
+      "slug": "roar-varsha-bajaj",
+      "product_name": "Roar by Varsha Bajaj",
+      "category": "books-media",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
       "id": "fiio-dm13-portable-cd-player",
       "slug": "fiio-dm13-portable-cd-player",
       "product_name": "FiiO DM13 portable CD player",
@@ -68,12 +101,12 @@
       "review_notes": []
     },
     {
-      "id": "rachel-zoe-marble-mushroom-lamp",
-      "slug": "rachel-zoe-marble-mushroom-lamp",
-      "product_name": "Rachel Zoe marble mushroom lamp",
-      "category": "home-decor",
+      "id": "camp-snap-2",
+      "slug": "camp-snap-2",
+      "product_name": "Camp Snap 2",
+      "category": "tech-gadgets",
       "identified_on": "2026-10-28",
-      "stage_at_identification": "Mid",
+      "stage_at_identification": "Early",
       "status": "watching",
       "last_reviewed": null,
       "review_notes": []
@@ -82,6 +115,17 @@
       "id": "puma-deviate-nitro-elite-4-hyrox",
       "slug": "puma-deviate-nitro-elite-4-hyrox",
       "product_name": "PUMA Deviate Nitro Elite 4 HYROX",
+      "category": "sports-outdoors",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "bala-bangles",
+      "slug": "bala-bangles",
+      "product_name": "Bala Bangles",
       "category": "sports-outdoors",
       "identified_on": "2026-10-28",
       "stage_at_identification": "Mid",
@@ -101,9 +145,31 @@
       "review_notes": []
     },
     {
+      "id": "yoto-mini-4th-gen",
+      "slug": "yoto-mini-4th-gen",
+      "product_name": "Yoto Mini 4th Gen",
+      "category": "baby-kids",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Early\u2013mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
       "id": "brick-phone-blocker",
       "slug": "brick-phone-blocker",
       "product_name": "Brick phone blocker",
+      "category": "health-wellness",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "loop-quiet-2",
+      "slug": "loop-quiet-2",
+      "product_name": "Loop Quiet 2",
       "category": "health-wellness",
       "identified_on": "2026-10-28",
       "stage_at_identification": "Mid",
@@ -123,12 +189,56 @@
       "review_notes": []
     },
     {
+      "id": "zippypaws-jigglerz-pickle",
+      "slug": "zippypaws-jigglerz-pickle",
+      "product_name": "ZippyPaws Jigglerz Pickle",
+      "category": "pet-supplies",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Early",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
       "id": "sabre-paris-bistrot-flatware",
       "slug": "sabre-paris-bistrot-flatware",
       "product_name": "Sabre Paris Bistrot flatware",
       "category": "kitchen-dining",
       "identified_on": "2026-10-28",
       "stage_at_identification": "Mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "fellow-opus-2",
+      "slug": "fellow-opus-2",
+      "product_name": "Fellow Opus 2",
+      "category": "kitchen-dining",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Early",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "rhode-peptide-lip-shape",
+      "slug": "rhode-peptide-lip-shape",
+      "product_name": "Rhode Peptide Lip Shape",
+      "category": "beauty-makeup",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "mushi-ambient-mushroom-light",
+      "slug": "mushi-ambient-mushroom-light",
+      "product_name": "Mushi Ambient Mushroom Light",
+      "category": "home-decor",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Early",
       "status": "watching",
       "last_reviewed": null,
       "review_notes": []
