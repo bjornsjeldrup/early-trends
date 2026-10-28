@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Early Trends — Pet Supplies</title>
+    <link>https://bjornsjeldrup.github.io/early-trends/categories/pet-supplies.html</link>
+    <description>Early Trends picks in Pet Supplies. Free RSS; no account required.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://bjornsjeldrup.github.io/early-trends/feeds/pet-supplies.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Woof Pupsicle</title>
+      <link>https://bjornsjeldrup.github.io/early-trends/trends/woof-pupsicle.html</link>
+      <guid isPermaLink="true">https://bjornsjeldrup.github.io/early-trends/trends/woof-pupsicle.html</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <dc:date>2026-10-28</dc:date>
+      <category>Pet Supplies</category>
+      <description>The Woof Pupsicle and its refills: cited search lifts in pet trends, a TikTok Shop reviews page, and the brand’s own product page. No sell-out figure. Identified on October 28, 2026 (2026-10-28). Stage at identification: Mid.</description>
+    </item>
+  </channel>
+</rss>

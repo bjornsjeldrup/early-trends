@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Early Trends — Food &amp; Drink</title>
+    <link>https://bjornsjeldrup.github.io/early-trends/categories/food-drink.html</link>
+    <description>Early Trends picks in Food &amp; Drink. Free RSS; no account required.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://bjornsjeldrup.github.io/early-trends/feeds/food-drink.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hojicha lattes</title>
+      <link>https://bjornsjeldrup.github.io/early-trends/trends/hojicha-lattes.html</link>
+      <guid isPermaLink="true">https://bjornsjeldrup.github.io/early-trends/trends/hojicha-lattes.html</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <dc:date>2026-10-28</dc:date>
+      <category>Food &amp; Drink</category>
+      <description>Hojicha lattes: searches cited up 173%, a March 2026 search high, and new US menus at The Coffee Bean &amp; Tea Leaf and Black Sheep Coffee. Identified on October 28, 2026 (2026-10-28). Stage at identification: Early–mid.</description>
+    </item>
+  </channel>
+</rss>

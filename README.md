@@ -24,6 +24,12 @@ Trend cards use `data-category="<slug> [<slug>...]"` so the filter on trends/ind
 Signals-by-category summary table: trends/how-we-spot-trends.html#signals-by-category.
 
 ## Content status
-Trend cards are a Labubu historical case study plus clearly labelled fictional examples
-(one or two per category). Replace them with real posts; see the `HOW TO ADD A REAL TREND`
-comment in trends/index.html. No traffic or earnings figures are claimed anywhere.
+Twelve real picks are published under `trends/`, linked from each category's
+"Trends we're watching" section, from `trends/index.html`, and as three featured
+cards on the homepage (Vaseline Originals, BubblePlush, Emma M. Lion).
+The Labubu card remains a historical case study. Signal meters are illustrative.
+Each pick is marked Identified on October 28, 2026 (2026-10-28). Machine-readable
+rows live in `trends/tracker.json` (status `watching`; `last_reviewed` is null).
+Product links are plain merchant or source URLs with no affiliate ID yet.
+No traffic or earnings figures are claimed beyond numbers in the cited sources.
+Free RSS: `feed.xml` for every pick, `feeds/<category>.xml` for one category, explained on `subscribe.html`. Email alerts are not set up.
