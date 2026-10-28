@@ -167,7 +167,12 @@ p { margin: 0 0 1.1em; }
 }
 /* Author display:flex would otherwise override the hidden attribute, so filtered cards stay on screen. */
 .trend-card[hidden] { display: none; }
-.trend-card .swatch { height: 7.5rem; position: relative; display: grid; place-items: center; }
+.trend-card .swatch { height: 12rem; position: relative; display: grid; place-items: center; overflow: hidden; background: #fff; }
+.trend-card .swatch img { width: 100%; height: 100%; object-fit: contain; display: block; }
+.product-hero { margin: 1.2rem 0 0; }
+.product-hero img { width: auto; max-width: min(100%, 36rem); height: auto; max-height: 32rem; object-fit: contain; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); display: block; }
+.product-hero figcaption { font-family: var(--mono); font-size: .75rem; color: var(--muted); margin-top: .45rem; }
+.product-hero figcaption a { color: var(--muted); }
 .trend-card .swatch span { font-size: 2.6rem; line-height: 1; filter: drop-shadow(0 3px 0 rgba(0,0,0,.12)); }
 .swatch-a { background: radial-gradient(circle at 30% 30%, #ffd2c4, #f6a48e 60%, #e2492f); }
 .swatch-b { background: radial-gradient(circle at 70% 30%, #e5efd9, #b7cfa3 60%, #2f5d50); }
