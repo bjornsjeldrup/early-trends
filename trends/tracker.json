@@ -1,0 +1,137 @@
+{
+  "batch_identified_on": "2026-10-28",
+  "picks": [
+    {
+      "id": "pop-mart-twinkle-twinkle",
+      "slug": "pop-mart-twinkle-twinkle",
+      "product_name": "Pop Mart Twinkle Twinkle",
+      "category": "toys-collectibles",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Early in the West",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "kitsch-zig-zag-headbands",
+      "slug": "kitsch-zig-zag-headbands",
+      "product_name": "Kitsch zig-zag headbands",
+      "category": "fashion-apparel",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Early",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "vaseline-originals-brow-tamer-jelly",
+      "slug": "vaseline-originals-brow-tamer-jelly",
+      "product_name": "Vaseline Originals Brow Tamer Jelly",
+      "category": "beauty-makeup",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Very early",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "hojicha-lattes",
+      "slug": "hojicha-lattes",
+      "product_name": "Hojicha lattes",
+      "category": "food-drink",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Early–mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "emma-m-lion-journals",
+      "slug": "emma-m-lion-journals",
+      "product_name": "The Unselected Journals of Emma M. Lion",
+      "category": "books-media",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Early",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "fiio-dm13-portable-cd-player",
+      "slug": "fiio-dm13-portable-cd-player",
+      "product_name": "FiiO DM13 portable CD player",
+      "category": "tech-gadgets",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Early",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "rachel-zoe-marble-mushroom-lamp",
+      "slug": "rachel-zoe-marble-mushroom-lamp",
+      "product_name": "Rachel Zoe marble mushroom lamp",
+      "category": "home-decor",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "puma-deviate-nitro-elite-4-hyrox",
+      "slug": "puma-deviate-nitro-elite-4-hyrox",
+      "product_name": "PUMA Deviate Nitro Elite 4 HYROX",
+      "category": "sports-outdoors",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "bubbleplush-yoga-ball-buddies",
+      "slug": "bubbleplush-yoga-ball-buddies",
+      "product_name": "BubblePlush Yoga Ball Buddies",
+      "category": "baby-kids",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Early",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "brick-phone-blocker",
+      "slug": "brick-phone-blocker",
+      "product_name": "Brick phone blocker",
+      "category": "health-wellness",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "woof-pupsicle",
+      "slug": "woof-pupsicle",
+      "product_name": "Woof Pupsicle",
+      "category": "pet-supplies",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "sabre-paris-bistrot-flatware",
+      "slug": "sabre-paris-bistrot-flatware",
+      "product_name": "Sabre Paris Bistrot flatware",
+      "category": "kitchen-dining",
+      "identified_on": "2026-10-28",
+      "stage_at_identification": "Mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    }
+  ]
+}

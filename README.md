@@ -28,5 +28,7 @@ Twelve real picks are published under `trends/`, linked from each category's
 "Trends we're watching" section, from `trends/index.html`, and as three featured
 cards on the homepage (Vaseline Originals, BubblePlush, Emma M. Lion).
 The Labubu card remains a historical case study. Signal meters are illustrative.
+Each pick is marked Identified on October 28, 2026 (2026-10-28). Machine-readable
+rows live in `trends/tracker.json` (status `watching`; `last_reviewed` is null).
 Product links are plain merchant or source URLs with no affiliate ID yet.
 No traffic or earnings figures are claimed beyond numbers in the cited sources.
