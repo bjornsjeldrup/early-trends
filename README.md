@@ -24,9 +24,11 @@ Trend cards use `data-category="<slug> [<slug>...]"` so the filter on trends/ind
 Signals-by-category summary table: trends/how-we-spot-trends.html#signals-by-category.
 
 ## Content status
-Twelve real picks are published under `trends/`, linked from each category's
+Twenty-two buyable picks are published under `trends/`, linked from each category's
 "Trends we're watching" section, from `trends/index.html`, and as three featured
-cards on the homepage (Vaseline Originals, BubblePlush, Emma M. Lion).
+cards on the homepage (Rhode Peptide Lip Shape, BubblePlush, Emma M. Lion).
+Every published pick has a Where to buy link. Vaseline Originals and the Rachel Zoe
+marble lamp were removed because they had no stable retailer URL.
 The Labubu card remains a historical case study. Signal meters summarize the cited sources.
 Each pick is marked Identified on October 28, 2026 (2026-10-28). Machine-readable
 rows live in `trends/tracker.json` (status `watching`; `last_reviewed` is null).
