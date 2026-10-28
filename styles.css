@@ -165,6 +165,8 @@ p { margin: 0 0 1.1em; }
   background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
   box-shadow: var(--shadow); display: flex; flex-direction: column; overflow: hidden; position: relative;
 }
+/* Author display:flex would otherwise override the hidden attribute, so filtered cards stay on screen. */
+.trend-card[hidden] { display: none; }
 .trend-card .swatch { height: 7.5rem; position: relative; display: grid; place-items: center; }
 .trend-card .swatch span { font-size: 2.6rem; line-height: 1; filter: drop-shadow(0 3px 0 rgba(0,0,0,.12)); }
 .swatch-a { background: radial-gradient(circle at 30% 30%, #ffd2c4, #f6a48e 60%, #e2492f); }
