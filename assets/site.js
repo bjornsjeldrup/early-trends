@@ -71,14 +71,53 @@
     document.removeEventListener('pointermove', onPointerMove);
     if (motion.matches) {
       centerPupils();
+      document.querySelectorAll('.brand-mark').forEach(function (mark) {
+        mark.classList.remove('eyes-wide', 'eyes-blink');
+      });
       return;
     }
     document.addEventListener('pointermove', onPointerMove);
+  }
+
+  var marks = document.querySelectorAll('.brand-mark');
+  var blinkTimer = 0;
+  var clickableSelector = 'a[href], button, [role="button"], summary, label, input[type="checkbox"], input[type="radio"], input[type="submit"], input[type="button"]';
+
+  function clickableTarget(node) {
+    return node && node.closest ? node.closest(clickableSelector) : null;
+  }
+
+  function setWide(on) {
+    if (motion.matches) on = false;
+    marks.forEach(function (mark) {
+      mark.classList.toggle('eyes-wide', on);
+    });
+  }
+
+  function blink() {
+    if (motion.matches) return;
+    marks.forEach(function (mark) { mark.classList.add('eyes-blink'); });
+    window.clearTimeout(blinkTimer);
+    blinkTimer = window.setTimeout(function () {
+      marks.forEach(function (mark) { mark.classList.remove('eyes-blink'); });
+    }, 150);
   }
 
   if (pupils.length) {
     bindEyes();
     if (motion.addEventListener) motion.addEventListener('change', bindEyes);
     else if (motion.addListener) motion.addListener(bindEyes);
+
+    document.addEventListener('pointerover', function (event) {
+      if (clickableTarget(event.target)) setWide(true);
+    });
+    document.addEventListener('pointerout', function (event) {
+      if (!clickableTarget(event.target)) return;
+      if (clickableTarget(event.relatedTarget)) return;
+      setWide(false);
+    });
+    document.addEventListener('pointerdown', function () {
+      blink();
+    });
   }
 })();
