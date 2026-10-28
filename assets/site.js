@@ -33,9 +33,9 @@
   if (y) y.textContent = new Date().getFullYear();
 
   // Magnifying-glass pupils follow the pointer. Centered when motion is reduced.
-  var pupils = document.querySelectorAll('.brand-mark .pupil');
+  var pupils = document.querySelectorAll('.brand-mark .pupil, .brand-mark .glint');
   var motion = window.matchMedia('(prefers-reduced-motion: reduce)');
-  var MAX_SHIFT = 2.15;
+  var MAX_SHIFT = 2.3;
 
   function centerPupils() {
     pupils.forEach(function (pupil) {
@@ -45,9 +45,8 @@
   }
 
   function onPointerMove(event) {
-    pupils.forEach(function (pupil) {
-      var mark = pupil.closest('.brand-mark');
-      if (!mark) return;
+    var marks = document.querySelectorAll('.brand-mark');
+    marks.forEach(function (mark) {
       var rect = mark.getBoundingClientRect();
       var dx = event.clientX - (rect.left + rect.width / 2);
       var dy = event.clientY - (rect.top + rect.height / 2);
@@ -55,14 +54,16 @@
       var ox = 0;
       var oy = 0;
       if (len > 0.5) {
-        var reach = Math.min(MAX_SHIFT, len / 36);
+        var reach = Math.min(MAX_SHIFT, len / 28);
         ox = (dx / len) * reach;
         oy = (dy / len) * reach;
       }
-      var baseX = parseFloat(pupil.getAttribute('data-cx'));
-      var baseY = parseFloat(pupil.getAttribute('data-cy'));
-      pupil.setAttribute('cx', (baseX + ox).toFixed(2));
-      pupil.setAttribute('cy', (baseY + oy).toFixed(2));
+      mark.querySelectorAll('.pupil, .glint').forEach(function (node) {
+        var baseX = parseFloat(node.getAttribute('data-cx'));
+        var baseY = parseFloat(node.getAttribute('data-cy'));
+        node.setAttribute('cx', (baseX + ox).toFixed(2));
+        node.setAttribute('cy', (baseY + oy).toFixed(2));
+      });
     });
   }
 
