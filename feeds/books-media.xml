@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Early Trends — Books &amp; Media</title>
+    <link>https://bjornsjeldrup.github.io/early-trends/categories/books-media.html</link>
+    <description>Early Trends picks in Books &amp; Media. Free RSS; no account required.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://bjornsjeldrup.github.io/early-trends/feeds/books-media.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Unselected Journals of Emma M. Lion</title>
+      <link>https://bjornsjeldrup.github.io/early-trends/trends/emma-m-lion-journals.html</link>
+      <guid isPermaLink="true">https://bjornsjeldrup.github.io/early-trends/trends/emma-m-lion-journals.html</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <dc:date>2026-10-28</dc:date>
+      <category>Books &amp; Media</category>
+      <description>Beth Brower’s Emma M. Lion journals: Bloomsbury bought volumes 1–8 after self-publishing, and signed volume 9. A BookTok claim from a shop blog is marked as a weak signal. Identified on October 28, 2026 (2026-10-28). Stage at identification: Early.</description>
+    </item>
+  </channel>
+</rss>

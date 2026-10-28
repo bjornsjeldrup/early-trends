@@ -32,3 +32,4 @@ Each pick is marked Identified on October 28, 2026 (2026-10-28). Machine-readabl
 rows live in `trends/tracker.json` (status `watching`; `last_reviewed` is null).
 Product links are plain merchant or source URLs with no affiliate ID yet.
 No traffic or earnings figures are claimed beyond numbers in the cited sources.
+Free RSS: `feed.xml` for every pick, `feeds/<category>.xml` for one category, explained on `subscribe.html`. Email alerts are not set up.
