@@ -242,6 +242,28 @@
       "status": "watching",
       "last_reviewed": null,
       "review_notes": []
+    },
+    {
+      "id": "hozo-neosander",
+      "slug": "hozo-neosander",
+      "product_name": "HOZO NeoSander",
+      "category": "tech-gadgets",
+      "identified_on": "2026-10-31",
+      "stage_at_identification": "Early\u2013mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
+    },
+    {
+      "id": "invisoutlet-aura",
+      "slug": "invisoutlet-aura",
+      "product_name": "InvisOutlet Aura",
+      "category": "home-decor",
+      "identified_on": "2026-10-31",
+      "stage_at_identification": "Early\u2013mid",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
     }
   ]
 }

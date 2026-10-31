@@ -2,77 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/categories/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/categories/toys-collectibles.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/categories/fashion-apparel.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/categories/beauty-makeup.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/categories/food-drink.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/categories/books-media.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/categories/tech-gadgets.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/categories/home-decor.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/categories/sports-outdoors.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/categories/baby-kids.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/categories/health-wellness.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/categories/pet-supplies.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/categories/kitchen-dining.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bjornsjeldrup.github.io/early-trends/categories/case-studies.html</loc>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/trends/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
@@ -186,13 +191,33 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://bjornsjeldrup.github.io/early-trends/trends/labubu-case-study.html</loc>
+    <lastmod>2026-10-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bjornsjeldrup.github.io/early-trends/trends/air-up-case-study.html</loc>
+    <lastmod>2026-10-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bjornsjeldrup.github.io/early-trends/trends/hozo-neosander.html</loc>
+    <lastmod>2026-10-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bjornsjeldrup.github.io/early-trends/trends/invisoutlet-aura.html</loc>
+    <lastmod>2026-10-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/trends/how-we-spot-trends.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/about.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
@@ -202,12 +227,12 @@
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/subscribe.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/feed.xml</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
@@ -237,12 +262,12 @@
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/feeds/tech-gadgets.xml</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/feeds/home-decor.xml</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
@@ -268,6 +293,11 @@
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/feeds/kitchen-dining.xml</loc>
     <lastmod>2026-10-28</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://bjornsjeldrup.github.io/early-trends/feeds/case-studies.xml</loc>
+    <lastmod>2026-10-31</lastmod>
     <priority>0.3</priority>
   </url>
 </urlset>
