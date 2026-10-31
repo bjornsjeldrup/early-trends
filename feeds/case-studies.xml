@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Early Trends — Case studies</title>
+    <link>https://bjornsjeldrup.github.io/early-trends/categories/case-studies.html</link>
+    <description>Early Trends retrospectives. Free RSS; no account required. These are hindsight case studies, not live picks.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://bjornsjeldrup.github.io/early-trends/feeds/case-studies.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>air up: when the sell-out would have lit</title>
+      <link>https://bjornsjeldrup.github.io/early-trends/trends/air-up-case-study.html</link>
+      <guid isPermaLink="true">https://bjornsjeldrup.github.io/early-trends/trends/air-up-case-study.html</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <dc:date>2026-10-31</dc:date>
+      <category>Case studies</category>
+      <description>Retrospective. The first 80,000 air up starter sets sold out in about six to eight weeks after a mid-2019 launch. US TikTok write-ups and Hollywood investor names are 2022. We did not cover it live.</description>
+    </item>
+    <item>
+      <title>Labubu: anatomy of a collectible craze</title>
+      <link>https://bjornsjeldrup.github.io/early-trends/trends/labubu-case-study.html</link>
+      <guid isPermaLink="true">https://bjornsjeldrup.github.io/early-trends/trends/labubu-case-study.html</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <dc:date>2026-10-31</dc:date>
+      <category>Case studies</category>
+      <description>Retrospective. Exciting Macaron was already scarce among art-toy buyers before Lisa’s April 2024 posts; restocks then sold out in minutes. We did not cover it live.</description>
+    </item>
+  </channel>
+</rss>

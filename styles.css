@@ -317,6 +317,8 @@ th { font-family: var(--mono); font-size: .76rem; text-transform: uppercase; let
 .sw-pet-supplies-edge { --cat: #ffb07a; --cat-soft: #332218; }
 .sw-kitchen-dining { background: radial-gradient(circle at 30% 30%, #fffdf8, #fde5d6 55%, #c7532c); }
 .sw-kitchen-dining-edge { --cat: #ff8d66; --cat-soft: #331c16; }
+.sw-case-studies { background: radial-gradient(circle at 30% 30%, #fffdf8, #e4dff8 55%, #3d3a78); }
+.sw-case-studies-edge { --cat: #c4b6ff; --cat-soft: #221c33; }
 
 .section-tight { padding: 2rem 0; }
 .cat-grid { display: grid; gap: .8rem; grid-template-columns: 1fr; }

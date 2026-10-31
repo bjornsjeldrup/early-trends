@@ -17,21 +17,21 @@ Search for these HTML comments:
 - `CONTACT:` — contact method on about.html.
 
 ## Categories
-Twelve categories live in `categories/<slug>.html` with a hub at `categories/index.html`:
+Twelve shopping categories live in `categories/<slug>.html` with a hub at `categories/index.html`:
 toys-collectibles, fashion-apparel, beauty-makeup, food-drink, books-media, tech-gadgets,
 home-decor, sports-outdoors, baby-kids, health-wellness, pet-supplies, kitchen-dining.
+`categories/case-studies.html` is a retrospectives shelf beside those twelve (Labubu, air up).
 Trend cards use `data-category="<slug> [<slug>...]"` so the filter on trends/index.html works.
 Signals-by-category summary table: trends/how-we-spot-trends.html#signals-by-category.
 
 ## Content status
-Twenty-two buyable picks are published under `trends/`, linked from each category's
+Twenty-four buyable picks are published under `trends/`, linked from each category's
 "Trends we're watching" section, from `trends/index.html`, and as three featured
-cards on the homepage (Rhode Peptide Lip Shape, BubblePlush, Emma M. Lion).
-Every published pick has a Where to buy link. Vaseline Originals and the Rachel Zoe
-marble lamp were removed because they had no stable retailer URL.
-The Labubu card remains a historical case study. Signal meters summarize the cited sources.
-Each pick is marked Identified on October 28, 2026 (2026-10-28). Machine-readable
-rows live in `trends/tracker.json` (status `watching`; `last_reviewed` is null).
-Product links are plain merchant or source URLs with no affiliate ID yet.
+cards on the homepage (Summer Fridays Lip Butter Balm, BubblePlush, Emma M. Lion).
+Every published pick has a Where to buy link on Amazon with Associates tag `earlytrends-20`.
+Labubu and air up are retrospectives on `categories/case-studies.html` (`trends/labubu-case-study.html`, `trends/air-up-case-study.html`). The method page only teases them.
+Signal meters summarize the cited sources.
+The October 28, 2026 batch is marked Identified on 2026-10-28. HOZO NeoSander and InvisOutlet Aura are marked 2026-10-31.
+Machine-readable rows live in `trends/tracker.json` (status `watching`; `last_reviewed` is null).
 No traffic or earnings figures are claimed beyond numbers in the cited sources.
-Free RSS: `feed.xml` for every pick, `feeds/<category>.xml` for one category, explained on `subscribe.html`. Email alerts are not set up.
+Free RSS: `feed.xml` for picks, `feeds/<category>.xml` per category including `feeds/case-studies.xml`, explained on `subscribe.html`. Email alerts are not set up.
