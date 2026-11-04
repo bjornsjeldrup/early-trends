@@ -264,6 +264,17 @@
       "status": "watching",
       "last_reviewed": null,
       "review_notes": []
+    },
+    {
+      "id": "needoh-nice-ice-baby",
+      "slug": "needoh-nice-ice-baby",
+      "product_name": "Schylling NeeDoh Nice Ice Baby",
+      "category": "toys-collectibles",
+      "identified_on": "2026-11-04",
+      "stage_at_identification": "Early",
+      "status": "watching",
+      "last_reviewed": null,
+      "review_notes": []
     }
   ]
 }
