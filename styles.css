@@ -142,13 +142,18 @@ p { margin: 0 0 1.1em; }
 .no-js .site-nav { display: block; }
 .no-js .nav-toggle { display: none; }
 
-/* ---------- Hero ---------- */
-.hero { padding: 3.2rem 0 2.6rem; border-bottom: 1px solid var(--line); position: relative; overflow: hidden; }
+/* ---------- Hero ----------
+   The pitch sits under the product cards on the homepage, so the block is
+   shorter than when it opened the page. The radar rings stay inside the hero. */
+.hero { padding: 2.05rem 0 1.85rem; border-bottom: 1px solid var(--line); position: relative; overflow: hidden; }
 .hero::before {
-  content: ""; position: absolute; right: -14rem; top: -10rem; width: 34rem; height: 34rem; border-radius: 50%;
+  content: ""; position: absolute; right: -14rem; top: -7rem; width: 34rem; height: 34rem; border-radius: 50%;
   background: repeating-radial-gradient(circle, transparent 0 2.2rem, rgba(46, 230, 199, .16) 2.2rem 2.32rem);
   pointer-events: none;
 }
+.hero .eyebrow { margin-bottom: .65rem; }
+.hero .lede { margin-bottom: .15rem; }
+.hero .actions { margin-top: 1.05rem; }
 .eyebrow {
   display: inline-block; font-family: var(--mono); font-size: .78rem; letter-spacing: .08em; text-transform: uppercase;
   color: #9ef6e4; background: rgba(46, 230, 199, .08); border: 1px solid rgba(46, 230, 199, .35); border-radius: 999px; padding: .2rem .7rem; margin-bottom: 1rem;
@@ -177,6 +182,13 @@ p { margin: 0 0 1.1em; }
 .section-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: .5rem 1rem; margin-bottom: 1.4rem; }
 .section-head h2 { margin: 0; }
 .section-head a { font-weight: 600; text-decoration: none; }
+/* Homepage opener: product cards sit directly under the nav. */
+.section-lead { padding: 1.45rem 0 1.65rem; border-bottom: 1px solid var(--line); }
+.section-lead .section-head { margin-bottom: .85rem; }
+.section-lead .notice { margin-bottom: .95rem; }
+/* The hidden leaderboard slot sits between the category grid and Follow, so the
+   adjacent-section border does not apply. Restore that divider on the homepage. */
+.section-tight + .slot[hidden] + #subscribe { border-top: 1px solid var(--line); }
 
 /* ---------- Trend cards ---------- */
 .card-grid { display: grid; gap: 1.1rem; grid-template-columns: 1fr; align-items: stretch; }
