@@ -35,3 +35,14 @@ The October 28, 2026 batch is marked Identified on 2026-10-28. HOZO NeoSander an
 Machine-readable rows live in `trends/tracker.json` (status `watching`; `last_reviewed` is null).
 No traffic or earnings figures are claimed beyond numbers in the cited sources.
 Free RSS: `feed.xml` for picks, `feeds/<category>.xml` per category including `feeds/case-studies.xml`, explained on `subscribe.html`. Email alerts are not set up.
+
+## Trend of the week
+`trend-of-the-week/` is one stable URL (canonical `https://bjornsjeldrup.github.io/early-trends/trend-of-the-week/`). It features a single product from `trends/tracker.json`. The address does not change from week to week.
+
+To publish a new week, edit three places. The comment at the top of `trend-of-the-week/index.html` lists the same steps.
+
+1. Replace the `CURRENT WEEK` block in `trend-of-the-week/index.html` (title, meta description, Open Graph tags, image, why now, identified date, meter, Amazon link, trend-page link). Facts come from that product's `trends/<slug>.html`. Where to buy stays Amazon-only with `tag=earlytrends-20`. Leave the canonical URL as it is.
+2. Prepend one `<li>` under `PREVIOUS WEEKS`. Do not delete older entries.
+3. Set `<lastmod>` for this URL in `sitemap.xml`, and replace the `TREND OF THE WEEK` item in `feed.xml`. Keep the feed `<link>` the same and use a new `<guid>` so readers see the new week.
+
+The “This week” nav item and the homepage notice point at this URL and do not name the product, so they stay put.

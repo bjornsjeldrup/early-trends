@@ -132,11 +132,15 @@ p { margin: 0 0 1.1em; }
 
 @media (min-width: 760px) {
   .nav-toggle { display: none; }
-  .site-nav { display: block; width: auto; }
-  .site-nav ul { flex-direction: row; padding: 0; gap: 1.4rem; }
+  .site-nav { display: block; width: 100%; }
+  .site-nav ul { flex-direction: row; flex-wrap: wrap; padding: 0; gap: .35rem 1.1rem; }
   .site-nav a { border: 0; padding: .3rem 0; font-size: .95rem; }
   .site-nav a[aria-current="page"] { box-shadow: 0 2px 0 var(--signal); }
+  .header-inner { flex-wrap: wrap; }
+}
+@media (min-width: 1100px) {
   .header-inner { flex-wrap: nowrap; }
+  .site-nav { width: auto; }
 }
 /* No-JS fallback: show nav if script never runs */
 .no-js .site-nav { display: block; }
@@ -376,3 +380,13 @@ th { font-family: var(--mono); font-size: .76rem; text-transform: uppercase; let
 .wrap.prose { max-width: var(--max); }
 .wrap.prose > * { max-width: 42rem; }
 .wrap.prose > .table-wrap { max-width: 52rem; }
+
+/* Trend of the week archive. One new <li> per week; see trend-of-the-week/index.html. */
+.prose .week-archive { list-style: none; padding-left: 0; margin-top: .4rem; }
+.week-archive li {
+  background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+  padding: .85rem 1rem; margin: 0 0 .6rem;
+}
+.week-archive time { font-family: var(--mono); font-size: .78rem; color: var(--muted); }
+.week-archive .badge { margin-left: .35rem; }
+.where-to-buy { margin-top: 1rem; }
