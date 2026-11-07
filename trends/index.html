@@ -401,6 +401,9 @@
       <!--
         HOW TO ADD A REAL TREND:
         1. Create trends/your-trend-slug.html (copy how-we-spot-trends.html as a template).
+           Keep the footer script ../assets/js/affiliate-track.js. It records clicks
+           on amazon.* links with tag=earlytrends-20. Link the card heading to the
+           product page so those clicks use this slug.
         2. Copy an <article class="trend-card"> block above, remove the "Example" badge,
            set data-category to one or more category slugs (e.g. "pet-supplies food-drink"),
            and link the <h3> to the new page.
@@ -462,6 +465,7 @@
   </div>
 </footer>
 <script src="../assets/site.js?v=radar4" defer></script>
+<script src="../assets/js/affiliate-track.js?v=affiliate1" defer></script>
 <script data-goatcounter="https://early-trends.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

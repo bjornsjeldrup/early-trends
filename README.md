@@ -9,6 +9,9 @@ Plain HTML/CSS + a few lines of vanilla JS. No build step.
   (GitHub serves it from any missing URL depth). Change those if the repo name changes.
 - Canonical/OG URLs and sitemap.xml use the full Pages URL; update them if the domain changes.
 
+## Affiliate click tracking
+`assets/js/affiliate-track.js` is loaded on every HTML page except the Google site-verification file, next to `assets/site.js`. A click on an outbound `amazon.*` link with `tag=earlytrends-20` (including Where to buy) sends a GoatCounter event `amazon-click/<product-slug>` and, when `gtag` exists, a Google Analytics `affiliate_click` event. The script does not change `href`, the Associates tag, or navigation. On a product page the slug is the filename. On a trend card it is the product page linked from the card heading. Copy an existing page, or `trends/how-we-spot-trends.html`, so the script tag comes along. The add-a-trend steps in `trends/index.html` say the same thing.
+
 ## Placeholders to fill later
 Search for these HTML comments:
 - `AdSense:` — head script location (each page). Also create `ads.txt` at the domain root.
