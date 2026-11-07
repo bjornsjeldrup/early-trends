@@ -5,8 +5,18 @@
     <link>https://bjornsjeldrup.github.io/early-trends/</link>
     <description>New early-trend product picks from Early Trends. Free RSS; no account required.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://bjornsjeldrup.github.io/early-trends/feed.xml" rel="self" type="application/rss+xml"/>
+    <!-- TREND OF THE WEEK: replace this item each week. Keep <link>. Change title, description, pubDate, dc:date, and guid. -->
+    <item>
+      <title>Trend of the Week: Schylling NeeDoh Nice Ice Baby</title>
+      <link>https://bjornsjeldrup.github.io/early-trends/trend-of-the-week/</link>
+      <guid isPermaLink="false">https://bjornsjeldrup.github.io/early-trends/trend-of-the-week/#2026-11-02</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <dc:date>2026-11-07</dc:date>
+      <category>Toys &amp; Collectibles</category>
+      <description>Trend of the Week for the week of November 2, 2026: Schylling NeeDoh Nice Ice Baby, an early viral product signal. A 1.25-inch squishy cube. Restockd tracked about 83 Amazon restocks in 30 days, latest around November 3–4, 2026. Identified on November 4, 2026 (2026-11-04). Stage at identification: Early. Signal 4/5.</description>
+    </item>
     <item>
       <title>Schylling NeeDoh Nice Ice Baby</title>
       <link>https://bjornsjeldrup.github.io/early-trends/trends/needoh-nice-ice-baby.html</link>
