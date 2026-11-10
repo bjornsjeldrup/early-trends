@@ -24,22 +24,19 @@ Twelve shopping categories live in `categories/<slug>.html` with a hub at `categ
 toys-collectibles, fashion-apparel, beauty-makeup, food-drink, books-media, tech-gadgets,
 home-decor, sports-outdoors, baby-kids, health-wellness, pet-supplies, kitchen-dining.
 `categories/case-studies.html` is a retrospectives shelf beside those twelve (Labubu, air up, NeeDoh).
-`categories/our-misses.html` is the shelf for the fifteen picks we covered after they had already gone mainstream. Their product URLs do not move.
+`categories/our-misses.html` is the shelf for a late pick once a genuinely early replacement is in its aisle. FiiO DM13 is the first entry. Product URLs do not move.
 Trend cards use `data-category="<slug> [<slug>...]"` so the filter on trends/index.html works.
 The public method is general on purpose: trends/how-we-spot-trends.html. It does not list thresholds, weights, or per-category sources.
 
 ## Content status
-Buyable picks are published under `trends/`. Ten early picks stay on the shopping
-category pages. Fifteen picks we caught too late are on `categories/our-misses.html`
-and in an Our misses section at the bottom of `trends/index.html`. The homepage
-"Latest Trending Products" section lists current cards only (Saie SuperSuede Baked Eyeshadow, then earlier early picks and the NeeDoh case study).
+Buyable picks are published under `trends/`. Sony MDR-3R is the newest Early pick in Tech & Gadgets and the first card on the homepage. FiiO DM13 is the only product on `categories/our-misses.html` and in the Our misses section of `trends/index.html`. The other mainstream-labelled picks stay on their category pages.
 Every published pick has a Where to buy link on Amazon with Associates tag `earlytrends-20`.
 Labubu and air up are retrospectives on `categories/case-studies.html` (`trends/labubu-case-study.html`, `trends/air-up-case-study.html`). The method page only teases them.
 Signal meters summarize the cited sources.
-The October 28, 2026 batch is marked Identified on 2026-10-28. HOZO NeoSander and InvisOutlet Aura are marked 2026-10-31. Schylling NeeDoh Nice Ice Baby is marked 2026-11-04. Saie SuperSuede Baked Eyeshadow is marked 2026-11-10.
-Machine-readable rows live in `trends/tracker.json`. The fifteen late misses also set `"shelf": "our-misses"`.
+The October 28, 2026 batch is marked Identified on 2026-10-28. HOZO NeoSander and InvisOutlet Aura are marked 2026-10-31. Schylling NeeDoh Nice Ice Baby is marked 2026-11-04. Saie SuperSuede Baked Eyeshadow and Sony MDR-3R are marked 2026-11-10.
+Machine-readable rows live in `trends/tracker.json`. FiiO DM13 sets `"shelf": "our-misses"`. Sony MDR-3R sets `"replaces": "FiiO DM13"`. `candidates` and `watchlist` are not rendered on any page.
 No traffic or earnings figures are claimed beyond numbers in the cited sources.
-Free RSS: `feed.xml` for current early picks, `feeds/<category>.xml` per category including `feeds/case-studies.xml` and `feeds/our-misses.xml`, explained on `subscribe.html`. A category feed with no early pick left is an empty, valid channel. Email alerts are not set up.
+Free RSS: `feed.xml` for current early picks, `feeds/<category>.xml` per category including `feeds/case-studies.xml` and `feeds/our-misses.xml`, explained on `subscribe.html`. Email alerts are not set up.
 
 ## Trend of the week
 `trend-of-the-week/` is one stable URL (canonical `https://bjornsjeldrup.github.io/early-trends/trend-of-the-week/`). It features a single product from `trends/tracker.json`. The address does not change from week to week.

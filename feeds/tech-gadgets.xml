@@ -3,9 +3,36 @@
   <channel>
     <title>Early Trends — Tech &amp; Gadgets</title>
     <link>https://bjornsjeldrup.github.io/early-trends/categories/tech-gadgets.html</link>
-    <description>Early Trends picks in Tech &amp; Gadgets. No early pick is listed right now. Picks we caught too late are in the Our misses feed.</description>
+    <description>Early Trends picks in Tech &amp; Gadgets. Free RSS; no account required.</description>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Nov 2026 12:00:00 GMT</lastBuildDate>
     <atom:link href="https://bjornsjeldrup.github.io/early-trends/feeds/tech-gadgets.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sony MDR-3R USB-C Wired On-Ear Headphones</title>
+      <link>https://bjornsjeldrup.github.io/early-trends/trends/sony-mdr-3r.html</link>
+      <guid isPermaLink="true">https://bjornsjeldrup.github.io/early-trends/trends/sony-mdr-3r.html</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+      <dc:date>2026-11-10</dc:date>
+      <category>Tech &amp; Gadgets</category>
+      <description>Sony MDR-3R USB-C wired on-ear headphones, announced November 5, 2026. From $59.99 (Sony list price). Label: Early. Replaces FiiO DM13 in Tech &amp; Gadgets. Where to buy is the silver Amazon listing.</description>
+    </item>
+    <item>
+      <title>HOZO NeoSander</title>
+      <link>https://bjornsjeldrup.github.io/early-trends/trends/hozo-neosander.html</link>
+      <guid isPermaLink="true">https://bjornsjeldrup.github.io/early-trends/trends/hozo-neosander.html</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <dc:date>2026-10-31</dc:date>
+      <category>Tech &amp; Gadgets</category>
+      <description>HOZO NeoSander, a palm-sized detail sander. Kickstarter opened January 20, 2026; the June 11, 2026 retail note says more than $2 million from over 14,000 backers. Amazon listing sold by HOZO. Identified on October 31, 2026 (2026-10-31). Stage at identification: Early–mid.</description>
+    </item>
+    <item>
+      <title>Camp Snap screen-free camera</title>
+      <link>https://bjornsjeldrup.github.io/early-trends/trends/camp-snap-screen-free.html</link>
+      <guid isPermaLink="true">https://bjornsjeldrup.github.io/early-trends/trends/camp-snap-screen-free.html</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <dc:date>2026-10-28</dc:date>
+      <category>Tech &amp; Gadgets</category>
+      <description>Camp Snap screen-free digital camera, black, on Amazon. This is the downloadable-filter model, not Camp Snap 2. Identified on October 28, 2026 (2026-10-28). Stage at identification: Early–mid.</description>
+    </item>
   </channel>
 </rss>
