@@ -25,7 +25,7 @@ toys-collectibles, fashion-apparel, beauty-makeup, food-drink, books-media, tech
 home-decor, sports-outdoors, baby-kids, health-wellness, pet-supplies, kitchen-dining.
 `categories/case-studies.html` is a retrospectives shelf beside those twelve (Labubu, air up).
 Trend cards use `data-category="<slug> [<slug>...]"` so the filter on trends/index.html works.
-Signals-by-category summary table: trends/how-we-spot-trends.html#signals-by-category.
+The public method is general on purpose: trends/how-we-spot-trends.html. It does not list thresholds, weights, or per-category sources.
 
 ## Content status
 Twenty-six buyable picks are published under `trends/`, linked from each category's
