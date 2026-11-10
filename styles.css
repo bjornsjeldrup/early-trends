@@ -390,3 +390,13 @@ th { font-family: var(--mono); font-size: .76rem; text-transform: uppercase; let
 .week-archive time { font-family: var(--mono); font-size: .78rem; color: var(--muted); }
 .week-archive .badge { margin-left: .35rem; }
 .where-to-buy { margin-top: 1rem; }
+
+
+/* Holiday gift guides. Prominent band under the latest products. */
+.section-gifts {
+  background:
+    radial-gradient(ellipse at 12% 0%, rgba(214, 255, 98, .1), transparent 46%),
+    radial-gradient(ellipse at 88% 30%, rgba(46, 230, 199, .14), transparent 42%);
+  border-bottom: 1px solid var(--line);
+}
+.section-gifts .lede { max-width: 40rem; margin-bottom: 1.2rem; }
