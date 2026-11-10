@@ -461,6 +461,25 @@
       "mainstream_filter": "failed",
       "follow_up_3m": "2027-02-04",
       "follow_up_6m": "2027-05-04"
+    },
+    {
+      "id": "saie-supersuede-baked-eyeshadow",
+      "slug": "saie-supersuede-baked-eyeshadow",
+      "product_name": "Saie SuperSuede Baked Eyeshadow",
+      "category": "beauty-makeup",
+      "identified_on": "2026-11-10",
+      "stage_at_identification": "Early",
+      "status": "watching",
+      "last_reviewed": "2026-11-10",
+      "review_notes": [
+        "2026-11-10: Trend of the week (week of 2026-11-10). Line launch 2026-08-18, 11 shades, $24, Saie and Sephora (https://wwd.com/beauty-industry-news/color-cosmetics/saie-eyeshadow-launch-helena-christensen-1239095387/, https://substack.com/@saiebeauty/note/c-312120036). Bellini sell-out within hours on 2026-10-15; Saie among the most-searched brands on Sephora that day; TikTok Shop gift-set record not confirmed (https://cosmeticsdaily.com/news/saie-bellini-eyeshadow-sells-out-tiktok/, https://glasswend.com/hannah-chody-bellini-eyeshadow-saie-launch/, https://www.allure.com/story/hannah-chody-saie-collaboration-bellini-interview). Stock churn 2026-10-21 to 2026-10-27, out of stock since 2026-10-27 (https://www.trackalacker.com/products/showcase/saie-supersuede-baked-eyeshadow-bellini/listings/339052/saie-super-suede-baked-eyeshadow-bellini). Trend age from the earlier date, the 2026-08-18 launch, about 2.8 months. Label Early; turns Rising after 2026-11-18 if still growing. Mainstream filter passed: no Aldi, Walmart, Target, or Costco drop found (Kohl's lists the line, outside that test); Amazon parent B0HQ5BJL27 is new in the past month, 6 ratings, Best Sellers Rank about #14,094 in Beauty & Personal Care, not a top-100 long-runner; Bellini was not on that shade menu and UPC 810029484305 had no Amazon page. Coverage read: WWD, Cosmetics Daily, Glasswend, Allure. Google Trends: not checked."
+      ],
+      "first_clear_signal": "2026-08-18",
+      "trend_age_months": 2.8,
+      "trend_label": "Early",
+      "mainstream_filter": "passed",
+      "follow_up_3m": "2027-02-10",
+      "follow_up_6m": "2027-05-10"
     }
   ],
   "method_version": "2026-11-07 mainstream filter + trend age",
