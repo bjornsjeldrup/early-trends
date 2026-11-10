@@ -28,13 +28,13 @@ Trend cards use `data-category="<slug> [<slug>...]"` so the filter on trends/ind
 Signals-by-category summary table: trends/how-we-spot-trends.html#signals-by-category.
 
 ## Content status
-Twenty-five buyable picks are published under `trends/`, linked from each category's
-"Trends we're watching" section, from `trends/index.html`, and as three featured
-cards on the homepage (Schylling NeeDoh Nice Ice Baby, Summer Fridays Lip Butter Balm, BubblePlush).
+Twenty-six buyable picks are published under `trends/`, linked from each category's
+"Trends we're watching" section, from `trends/index.html`, and in the homepage
+"Latest Trending Products" section, newest first (Saie SuperSuede Baked Eyeshadow, then earlier picks).
 Every published pick has a Where to buy link on Amazon with Associates tag `earlytrends-20`.
 Labubu and air up are retrospectives on `categories/case-studies.html` (`trends/labubu-case-study.html`, `trends/air-up-case-study.html`). The method page only teases them.
 Signal meters summarize the cited sources.
-The October 28, 2026 batch is marked Identified on 2026-10-28. HOZO NeoSander and InvisOutlet Aura are marked 2026-10-31. Schylling NeeDoh Nice Ice Baby is marked 2026-11-04.
+The October 28, 2026 batch is marked Identified on 2026-10-28. HOZO NeoSander and InvisOutlet Aura are marked 2026-10-31. Schylling NeeDoh Nice Ice Baby is marked 2026-11-04. Saie SuperSuede Baked Eyeshadow is marked 2026-11-10.
 Machine-readable rows live in `trends/tracker.json` (status `watching`; `last_reviewed` is null).
 No traffic or earnings figures are claimed beyond numbers in the cited sources.
 Free RSS: `feed.xml` for picks, `feeds/<category>.xml` per category including `feeds/case-studies.xml`, explained on `subscribe.html`. Email alerts are not set up.
