@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/categories/toys-collectibles.html</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -87,7 +87,7 @@
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/trends/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
@@ -154,6 +154,21 @@
     <loc>https://bjornsjeldrup.github.io/early-trends/trends/saie-supersuede-baked-eyeshadow.html</loc>
     <lastmod>2026-11-10</lastmod>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bjornsjeldrup.github.io/early-trends/trends/squeeze-please-scented-marshmallow.html</loc>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bjornsjeldrup.github.io/early-trends/trends/emotional-support-pals-nfl.html</loc>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bjornsjeldrup.github.io/early-trends/press/holiday-2026.html</loc>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/trends/sony-mdr-3r.html</loc>
@@ -242,7 +257,12 @@
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/about.html</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://bjornsjeldrup.github.io/early-trends/contact.html</loc>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
@@ -257,12 +277,12 @@
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/feed.xml</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/feeds/toys-collectibles.xml</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
@@ -333,17 +353,17 @@
 
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/gifts/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/gifts/teens.html</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/gifts/kids.html</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -358,7 +378,7 @@
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/gifts/stocking-stuffers.html</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -368,7 +388,7 @@
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/feeds/gifts.xml</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.3</priority>
   </url>
 </urlset>

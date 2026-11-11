@@ -680,6 +680,56 @@
           "detail": "BSR #233 Electronics / #5 On-Ear Headphones; #15 Amazon New Releases Electronics; 2 ratings"
         }
       ]
+    },
+    {
+      "id": "squeeze-please-scented-marshmallow",
+      "slug": "squeeze-please-scented-marshmallow",
+      "product_name": "Squeeze Please Scented Marshmallow 3-Pack",
+      "category": "toys-collectibles",
+      "identified_on": "2026-11-11",
+      "lifecycle": {
+        "first_signal": "2026-09",
+        "spotted": "2026-11-11",
+        "phase": "early",
+        "verdict": "early_pick"
+      },
+      "stage_at_identification": "Early",
+      "status": "watching",
+      "last_reviewed": "2026-11-11",
+      "review_notes": [
+        "2026-11-11: Early pick. First signal September 2026; earliest Amazon price history we have is 2026-10-03. Hip2Save 2026-10-07 (https://hip2save.com/deals/squeeze-please-squishy-toys/). TDmonthly 2026-10-22: No. 27 in Toys and No. 2 in Toys New Releases (https://www.toydirectory.com/monthly/article.asp?id=6580). Stormberry 2026-10-22 names it when NeeDoh is sold out (https://stormberry.net/blogs/squishy-news/needoh-sold-out-what-to-get-instead). US search interest for 'squeeze please' at zero until 2026-10-28, climbing since; no index printed. Where to buy B0H1DJM399; single B0H1DDC5B2. Jelly Gems are a different later squish."
+      ],
+      "first_clear_signal": "2026-09",
+      "trend_age_months": 2,
+      "trend_label": "Early",
+      "mainstream_filter": "passed",
+      "follow_up_3m": "2027-02-11",
+      "follow_up_6m": "2027-05-11"
+    },
+    {
+      "id": "emotional-support-pals-nfl",
+      "slug": "emotional-support-pals-nfl",
+      "product_name": "Emotional Support Pals x NFL",
+      "category": "toys-collectibles",
+      "identified_on": "2026-11-11",
+      "lifecycle": {
+        "first_signal": "2026-09",
+        "spotted": "2026-11-11",
+        "phase": "early",
+        "verdict": "early_pick"
+      },
+      "stage_at_identification": "Early",
+      "status": "watching",
+      "last_reviewed": "2026-11-11",
+      "review_notes": [
+        "2026-11-11: Early pick for the NFL line only. Parent Emotional Support Pals brand already existed. Preorders began 2026-09-01; press release 2026-09-03 (https://www.prnewswire.com/news-releases/relatable-teams-up-with-the-nfl-to-bring-emotional-support-to-football-fans-302868519.html). Hip2Save 2026-09-15, release scheduled 2026-11-01 (https://hip2save.com/deals/emotional-support-pals-nfl/). Toy Book launch (https://toybook.com/emotional-support-nfl-footballs-launch/). 12 teams. Where to buy B0H4HPNBVH. Trend age about 2.3 months from 2026-09-01 to 2026-11-11."
+      ],
+      "first_clear_signal": "2026-09-01",
+      "trend_age_months": 2.3,
+      "trend_label": "Early",
+      "mainstream_filter": "passed",
+      "follow_up_3m": "2027-02-11",
+      "follow_up_6m": "2027-05-11"
     }
   ],
   "method_version": "2026-11-07 mainstream filter + trend age",
