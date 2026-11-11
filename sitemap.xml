@@ -257,7 +257,12 @@
   </url>
   <url>
     <loc>https://bjornsjeldrup.github.io/early-trends/about.html</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://bjornsjeldrup.github.io/early-trends/contact.html</loc>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.5</priority>
   </url>
   <url>

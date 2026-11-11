@@ -596,3 +596,45 @@ th { font-family: var(--mono); font-size: .76rem; text-transform: uppercase; let
 }
 .press-quote p { margin: 0; font-size: 1.12rem; }
 .press-quote cite { font-style: normal; color: var(--muted); }
+
+/* Contact form */
+.contact-form {
+  display: grid;
+  gap: 1rem;
+  max-width: 36rem;
+  margin-top: 1.2rem;
+}
+.contact-form label { display: block; font-weight: 600; margin-bottom: .35rem; }
+.contact-form .optional { font-weight: 500; color: var(--muted); }
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form select,
+.contact-form textarea {
+  width: 100%;
+  font: inherit;
+  font-size: 1rem;
+  color: var(--ink);
+  background: #0c1626;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: .7rem .8rem;
+}
+.contact-form textarea { min-height: 9rem; resize: vertical; }
+.contact-form input:focus,
+.contact-form select:focus,
+.contact-form textarea:focus {
+  outline: 2px solid var(--teal);
+  outline-offset: 2px;
+}
+.contact-form button { justify-content: center; cursor: pointer; }
+.contact-form button:disabled { opacity: .65; cursor: progress; }
+.form-hp {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+.form-status { min-height: 1.4em; margin: .2rem 0 0; }
+.form-status.is-success { color: var(--lime); }
+.form-status.is-error { color: #ff8fb8; }
