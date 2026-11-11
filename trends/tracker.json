@@ -7,6 +7,12 @@
       "product_name": "Smiski Living Series",
       "category": "toys-collectibles",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2018-09",
+        "spotted": "2026-10-28",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Early–mid",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -26,6 +32,11 @@
       "product_name": "MGA Miniverse Animals Series 3",
       "category": "toys-collectibles",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "spotted": "2026-10-28",
+        "phase": "rising",
+        "verdict": "early_pick"
+      },
       "stage_at_identification": "Early–mid",
       "status": "watching",
       "last_reviewed": null,
@@ -43,6 +54,11 @@
       "product_name": "Kitsch zig-zag headbands",
       "category": "fashion-apparel",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "spotted": "2026-10-28",
+        "phase": "early",
+        "verdict": "early_pick"
+      },
       "stage_at_identification": "Early",
       "status": "watching",
       "last_reviewed": null,
@@ -60,6 +76,11 @@
       "product_name": "Crocs Getaway Platform Toe Loop",
       "category": "fashion-apparel",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "spotted": "2026-10-28",
+        "phase": "rising",
+        "verdict": "early_pick"
+      },
       "stage_at_identification": "Early–mid",
       "status": "watching",
       "last_reviewed": null,
@@ -77,6 +98,12 @@
       "product_name": "Hojicha lattes",
       "category": "food-drink",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2025",
+        "spotted": "2026-10-28",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Early–mid",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -96,6 +123,12 @@
       "product_name": "Fishwife Tinned Fish Forever pack",
       "category": "food-drink",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2020-12",
+        "spotted": "2026-10-28",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Early–mid",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -115,6 +148,11 @@
       "product_name": "The Unselected Journals of Emma M. Lion",
       "category": "books-media",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "spotted": "2026-10-28",
+        "phase": "early",
+        "verdict": "early_pick"
+      },
       "stage_at_identification": "Early",
       "status": "watching",
       "last_reviewed": null,
@@ -132,6 +170,12 @@
       "product_name": "Roar by Varsha Bajaj",
       "category": "books-media",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2026-05",
+        "spotted": "2026-10-28",
+        "phase": "rising",
+        "verdict": "early_pick"
+      },
       "stage_at_identification": "Mid",
       "status": "watching",
       "last_reviewed": null,
@@ -149,6 +193,12 @@
       "product_name": "FiiO DM13 portable CD player",
       "category": "tech-gadgets",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2024-07",
+        "spotted": "2026-10-28",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Early",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -169,6 +219,12 @@
       "product_name": "Camp Snap screen-free camera",
       "category": "tech-gadgets",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2024",
+        "spotted": "2026-10-28",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Early–mid",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -188,6 +244,12 @@
       "product_name": "Selkirk AMPED Control Invikta",
       "category": "sports-outdoors",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2024-07",
+        "spotted": "2026-10-28",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Mid",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -207,6 +269,12 @@
       "product_name": "Bala Bangles",
       "category": "sports-outdoors",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2020-02",
+        "spotted": "2026-10-28",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Mid",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -226,6 +294,12 @@
       "product_name": "BubblePlush Yoga Ball Buddies",
       "category": "baby-kids",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2026-09",
+        "spotted": "2026-10-28",
+        "phase": "early",
+        "verdict": "early_pick"
+      },
       "stage_at_identification": "Early",
       "status": "watching",
       "last_reviewed": "2026-11-07",
@@ -245,6 +319,12 @@
       "product_name": "Yoto Mini 4th Gen",
       "category": "baby-kids",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2026-09",
+        "spotted": "2026-10-28",
+        "phase": "early",
+        "verdict": "early_pick"
+      },
       "stage_at_identification": "Early–mid",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -264,6 +344,12 @@
       "product_name": "Brick phone blocker",
       "category": "health-wellness",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2023-09",
+        "spotted": "2026-10-28",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Mid",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -283,6 +369,12 @@
       "product_name": "Loop Quiet 2",
       "category": "health-wellness",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2024-04",
+        "spotted": "2026-10-28",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Mid",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -302,6 +394,12 @@
       "product_name": "Woof Pupsicle",
       "category": "pet-supplies",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2024",
+        "spotted": "2026-10-28",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Mid",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -321,6 +419,11 @@
       "product_name": "ZippyPaws Burrow Hot Cocoa",
       "category": "pet-supplies",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "spotted": "2026-10-28",
+        "phase": "rising",
+        "verdict": "early_pick"
+      },
       "stage_at_identification": "Early–mid",
       "status": "watching",
       "last_reviewed": null,
@@ -338,6 +441,11 @@
       "product_name": "Made In carbon steel griddle",
       "category": "kitchen-dining",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "spotted": "2026-10-28",
+        "phase": "early",
+        "verdict": "early_pick"
+      },
       "stage_at_identification": "Early",
       "status": "watching",
       "last_reviewed": null,
@@ -355,6 +463,12 @@
       "product_name": "Our Place Wonder Oven",
       "category": "kitchen-dining",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2023-06",
+        "spotted": "2026-10-28",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Mid",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -374,6 +488,12 @@
       "product_name": "Summer Fridays Lip Butter Balm",
       "category": "beauty-makeup",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2020-03",
+        "spotted": "2026-10-28",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Mid",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -393,6 +513,12 @@
       "product_name": "WEILAILUX cordless mushroom lamp",
       "category": "home-decor",
       "identified_on": "2026-10-28",
+      "lifecycle": {
+        "first_signal": "2024-03",
+        "spotted": "2026-10-28",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Mid",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -412,6 +538,12 @@
       "product_name": "HOZO NeoSander",
       "category": "tech-gadgets",
       "identified_on": "2026-10-31",
+      "lifecycle": {
+        "first_signal": "2026-01",
+        "spotted": "2026-10-31",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Early–mid",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -431,6 +563,12 @@
       "product_name": "InvisOutlet Aura",
       "category": "home-decor",
       "identified_on": "2026-10-31",
+      "lifecycle": {
+        "first_signal": "2025-08",
+        "spotted": "2026-10-31",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Early–mid",
       "status": "watching",
       "last_reviewed": "2026-11-09",
@@ -450,6 +588,12 @@
       "product_name": "Schylling NeeDoh Nice Ice Baby",
       "category": "toys-collectibles",
       "identified_on": "2026-11-04",
+      "lifecycle": {
+        "first_signal": "2026-01",
+        "spotted": "2026-11-04",
+        "phase": "mainstream",
+        "verdict": "late_miss"
+      },
       "stage_at_identification": "Early",
       "status": "case-study",
       "last_reviewed": "2026-11-07",
@@ -469,6 +613,12 @@
       "product_name": "Saie SuperSuede Baked Eyeshadow",
       "category": "beauty-makeup",
       "identified_on": "2026-11-10",
+      "lifecycle": {
+        "first_signal": "2026-08",
+        "spotted": "2026-11-10",
+        "phase": "early",
+        "verdict": "early_pick"
+      },
       "stage_at_identification": "Early",
       "status": "watching",
       "last_reviewed": "2026-11-10",
@@ -488,6 +638,12 @@
       "product_name": "Sony MDR-3R USB-C Wired On-Ear Headphones",
       "category": "tech-gadgets",
       "identified_on": "2026-11-10",
+      "lifecycle": {
+        "first_signal": "2026-11",
+        "spotted": "2026-11-10",
+        "phase": "early",
+        "verdict": "early_pick"
+      },
       "stage_at_identification": "Early",
       "status": "watching",
       "last_reviewed": "2026-11-10",
