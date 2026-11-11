@@ -546,3 +546,53 @@ th { font-family: var(--mono); font-size: .76rem; text-transform: uppercase; let
     text-align: left;
   }
 }
+
+/* Press page: one shared curve, then compact pick cards. */
+.press-chart {
+  margin: 1rem 0 0;
+  background: #0b1020;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+.press-chart svg { display: block; width: 100%; height: auto; }
+.press-caption { margin: .7rem 0 0; color: var(--muted); font-size: .9rem; }
+.press-picks {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr;
+  margin-top: 1.1rem;
+}
+@media (min-width: 800px) {
+  .press-picks { grid-template-columns: 1fr 1fr; }
+}
+.press-pick {
+  display: grid;
+  grid-template-columns: 7.2rem minmax(0, 1fr);
+  gap: .85rem;
+  align-items: start;
+  background: #121c30;
+  border: 1px solid rgba(46, 230, 199, .32);
+  border-radius: var(--radius);
+  padding: .85rem;
+}
+.press-pick img {
+  width: 7.2rem;
+  height: 7.2rem;
+  object-fit: cover;
+  border-radius: 10px;
+  background: #fff;
+  display: block;
+}
+.press-pick h3 { margin: 0 0 .3rem; font-size: 1.12rem; line-height: 1.25; }
+.press-pick h3 a { text-decoration: none; }
+.press-pick p { margin: 0 0 .4rem; }
+.press-pick .why { color: var(--ink-soft); }
+.press-pick .identified-on { font-size: .85rem; margin-bottom: .35rem; }
+.press-quote {
+  margin: 0 0 1rem;
+  padding: .1rem 0 .1rem 1rem;
+  border-left: 3px solid var(--signal);
+}
+.press-quote p { margin: 0; font-size: 1.12rem; }
+.press-quote cite { font-style: normal; color: var(--muted); }
