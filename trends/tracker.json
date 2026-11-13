@@ -1448,6 +1448,186 @@
       "reason": "Not wholesome",
       "outcome_3m": null,
       "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "Losy Kim PDRN Tinted Lip Ampoule",
+      "category": "beauty-makeup",
+      "signals": "Asia radar: Olive Young Global Top Orders #7 on 2026-11-01 (hanokdays.com snapshot); KR/US launch 2025 (losykim.us blog 2025-10-27); Google Trends US 'losy kim' 0 for 12 months, then 16->100->61 (weeks of 10-25, 11-01, 11-08; current at/near 12m max); Wikipedia: none; dupe autocomplete 'losy kim dupe' 0, 'losy kim lip dupe' 0; TikTok views not checked; Amazon US B0FR9G6H6K (brand Losy Kim) 'Currently unavailable', no featured offer, BSR #406,424 Beauty; 1 source accelerating (Trends)",
+      "decision": "WATCHLIST",
+      "reason": "Possible sleeper (2025 launch, flat, fresh US re-acceleration from ~2026-11-01) but not buyable on Amazon US right now and only one accelerating US source. Trigger for the spike not yet documented. Promote if brand listing is back in stock on Amazon US AND a second US source accelerates (e.g. Amazon rank, YouTube uploads, specialty sellouts) while all mainstream checks still pass",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "d'Alba Pro2X Mist Peptide (White Truffle First Spray Serum Pro 2X Peptide)",
+      "category": "beauty-makeup",
+      "signals": "Asia radar: KR launch 2026-10-16 (cosinkorea.com no=58523); 10k units in 7 days in KR + 10k units in 40 min on global live commerce (cosmorning.com no=53912, 2026-11-09); same article says Amazon/Ulta/Sephora listing still 'in talks' while also citing +263% Amazon US monthly revenue (brand-reported, ambiguous); Trends US 'd alba mist' ~0 -> 7/9 (no clear US acceleration); Wikipedia: no product/brand article; dupe autocomplete 'dalba dupe' 9 suggestions, 'dalba mist dupe' 7",
+      "decision": "REJECT",
+      "reason": "Brand dupe check fails (~9 suggestions: parent d'Alba spray serum is already mainstream); no clear accelerating US signal; Amazon US listing for this exact SKU unconfirmed",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "SUNGBOON EDITOR Silk Peptide EGF Toner ('Tox Toner')",
+      "category": "beauty-makeup",
+      "signals": "PR Newswire 2026-11-03: TikTok Shop US #1 toner 2026-08-15..10-21, #1 Skincare by revenue 2026-09-08; Amazon US #4 Facial Toners 2026-10-13, briefly pre-order; brand +32.4% YoY (existed 2025); Trends 'tox toner' peaked 100 on 2026-09-06 now 26-32; 'sungboon editor' peaked 2026-04; Wikipedia none; dupes 'sungboon editor dupe' 0",
+      "decision": "REJECT",
+      "reason": "Already past Trends peak (current about 30% of the Sept peak), already #1 on TikTok Shop and in Amazon's category top 5, and the brand/toner is older than 6 months",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "Spartus Spitfire pickleball paddle",
+      "category": "sports-outdoors",
+      "signals": "Pre-release buzz from ~early Jul 2026, on sale 2026-07-27 (mattspickleball.substack.com 2026-07-21); Trends US 'spartus spitfire' steady climb, current=12m max (100 on wk 11-08); restock shipping 2026-11-19 on gospartus.com; Wikipedia none for product; no Amazon US listing found",
+      "decision": "REJECT",
+      "reason": "Not buyable on Amazon US (direct-to-consumer only); age about 4 months (would be Rising)",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "Holbrook Fuze VantaGrit pickleball paddle",
+      "category": "sports-outdoors",
+      "signals": "Released 2026-10-29 (thekitchenpickle.com); sold out on holbrookpickleball.com (specialty sellout); stocked at Scheels + Pickleball Central; Amazon has only the original Fuze Foam (B0H61XXQ4B), not VantaGrit",
+      "decision": "REJECT",
+      "reason": "VantaGrit version not on Amazon US; crowded grit-paddle market (Oct 2026 drop wave)",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "Mythos Aphrodite pickleball paddle (Susan G. Komen Edition)",
+      "category": "sports-outdoors",
+      "signals": "Preorder opened 2026-10-26, sold out on mythospaddles.com; single limited charity run",
+      "decision": "REJECT",
+      "reason": "Limited one-off edition sold direct; no second accelerating source; Amazon US not verified",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "Wingmate interactive flying bird cat toy",
+      "category": "pet-supplies",
+      "signals": "Trends US 'wingmate cat toy' 0 -> 6 -> 44 -> 100 (last 3 weeks); sold via several dropship storefronts (kittycollective.co, lumaverna, homeleso); Amazon B0HQNC49FY/B0HQN196RS is a third-party 'Merhm' listing, first available 2026-11-06, BSR #54,440 Pet Supplies; generic flapping-bird toy format exists since ~2023",
+      "decision": "REJECT",
+      "reason": "Ad-driven dropship product. The Amazon listing is a third-party knockoff, not the brand, and the toy format itself is years old",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "Wagging Rights Dog Dock (car seat dog bed)",
+      "category": "pet-supplies",
+      "signals": "Trends US 'wagging rights dog bed' 0 -> 16 -> 100 -> 96 (since late Oct); UK brand (waggingrights.co.uk); Amazon URL B0H87RDWP8 returns 404",
+      "decision": "REJECT",
+      "reason": "Not buyable on Amazon US (listing 404); UK-centric; single source",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "LettoDen animal-shaped cat trees",
+      "category": "pet-supplies",
+      "signals": "Trends 'letto cat tree' one-week spike (100 on wk 2026-10-11), otherwise 0; viral reels since May 2025",
+      "decision": "REJECT",
+      "reason": "Trend older than 6 months; single spike; 'Letto' on Amazon is an unrelated product",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "Buddy Belt dog harness",
+      "category": "pet-supplies",
+      "signals": "Rising related query (+12150% 1-month), but 5-yr Trends: peak 2026-05, current 17-28 (flat, old brand)",
+      "decision": "REJECT",
+      "reason": "Long-established brand, no fresh re-acceleration",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "OutIn Nano 2 portable espresso machine",
+      "category": "kitchen-dining",
+      "signals": "Launch 2026-09-18 outin.com, Amazon 2026-10-08 (EIN Presswire 2026-10-09); Trends 'outin nano 2' 0 -> 7/6, line 'outin nano' flat ~20 (peak May 2026); Wikipedia none; dupes 'outin nano dupe' 0, 'outin dupe' 1",
+      "decision": "REJECT",
+      "reason": "No accelerating source (two-source rule fails); successor product to a 2022 line",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "FEPPO food warming mat",
+      "category": "kitchen-dining",
+      "signals": "TikTok Shop ~90k units, 4,983 creators in ~1 month (heycross/EchoTik 2026-11-10); on Amazon since 2024 (the-gadgeteer review 2024-12-18); Trends 'food warming mat' seasonal climb 4 -> 26",
+      "decision": "REJECT",
+      "reason": "Launched 2024 (>6 months); holiday-seasonal category, already TikTok Shop scale",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "YETI DuraSip ceramic mug",
+      "category": "kitchen-dining",
+      "signals": "Rising related query (+13100% 1-month); Trends one-week 100 then 10",
+      "decision": "REJECT",
+      "reason": "Mainstream mega-brand (Wikipedia, many dupes); single spike",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "Ninja Crispi microwave (recheck)",
+      "category": "kitchen-dining",
+      "signals": "Sold out across UK retailers since Sept launch (idealhome.co.uk 2026-11-10)",
+      "decision": "REJECT",
+      "reason": "Already rejected 2026-11-10: mainstream brand and mass retail",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "Godzilla plant humidifier",
+      "category": "home-decor",
+      "signals": "Rising related query; Trends 12m peak 2026-03-15, current 21",
+      "decision": "REJECT",
+      "reason": "Already peaked (Mar 2026), >6 months",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "Cryotex massage gun",
+      "category": "health-wellness",
+      "signals": "Trends single-week spike (100 on wk 2026-11-01, otherwise 0)",
+      "decision": "REJECT",
+      "reason": "Single-week spike with no second source (looks ad-driven)",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "Bonvo Ski",
+      "category": "sports-outdoors",
+      "signals": "Trends 0 -> 100 (wk 2026-10-25)",
+      "decision": "REJECT",
+      "reason": "An iOS app, not a physical product sold on Amazon",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-13",
+      "name": "Boox Picco (watchlist recheck)",
+      "category": "tech-gadgets",
+      "signals": "Trends US weekly: peak 100 on 2026-09-27; since then 62,49,48,60,71,76 (rising again but below peak)",
+      "decision": "WATCHLIST",
+      "reason": "Still below the preorder-week peak, so no new 12-month max yet; keep on watchlist until 2027-01-24",
+      "outcome_3m": null,
+      "outcome_6m": null
     }
   ],
   "watchlist": [
@@ -1464,7 +1644,23 @@
       "age_months": 3.6,
       "why_not_pick": "Trends weekly peak on preorder week 2026-09-27 (=100) is above the current value (74/77/81) so the strict 'current = 12m max' gate fails. YouTube uploads are accelerating (17 in last ~4 weeks vs 2 the month before) and it sold out in the US.",
       "recheck": "Promote if Trends sets new 12m max before 2027-01-24 (6-month cutoff)",
-      "score_estimate": "~55-65 (gate fails)"
+      "score_estimate": "~55-65 (gate fails)",
+      "last_rechecked": "2026-11-13",
+      "recheck_note": "2026-11-13: Trends weekly since peak (100 on 2026-09-27): 62,49,48,60,71,76 - rising again but no new 12m max; stays on watchlist."
+    },
+    {
+      "name": "Losy Kim PDRN Tinted Lip Ampoule",
+      "brand": "Losy Kim (Followme Cosmetics, Seoul)",
+      "category": "beauty-makeup",
+      "status": "WATCHLIST",
+      "asin": "B0FR9G6H6K",
+      "amazon_url": "https://www.amazon.com/dp/B0FR9G6H6K",
+      "sold_by": "Losy Kim listing - currently unavailable, no featured offer (checked 2026-11-13)",
+      "first_signal": "2025 KR/US launch (https://losykim.us/blogs/our-story/your-lips-deserve-skincare-too-the-story-of-losy-kim-s-pdrn-tinted-lip-ampoule, 2025-10-27); possible sleeper re-acceleration in US Google Trends from week of 2026-11-01",
+      "added": "2026-11-13",
+      "why_not_pick": "Not buyable on Amazon US right now, and Google Trends is the only accelerating US source. Trigger for the re-acceleration not documented yet. Wikipedia none, dupes 0/0, Olive Young Global Top Orders #7 (2026-11-01).",
+      "recheck": "Promote via the sleeper exception if the brand's Amazon US listing is back in stock AND a second US source accelerates, with all mainstream checks still passing, before ~2027-05-01 (6 months from re-acceleration)",
+      "keyword_planner": "not checked"
     }
   ]
 }
