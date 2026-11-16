@@ -33,18 +33,21 @@
       "category": "toys-collectibles",
       "identified_on": "2026-10-28",
       "lifecycle": {
+        "first_signal": "2025-09",
         "spotted": "2026-10-28",
-        "phase": "rising",
-        "verdict": "early_pick"
+        "phase": "mainstream",
+        "verdict": "late_miss"
       },
       "stage_at_identification": "Early–mid",
       "status": "watching",
-      "last_reviewed": null,
-      "review_notes": [],
-      "first_clear_signal": null,
-      "trend_age_months": null,
-      "trend_label": null,
-      "mainstream_filter": "not yet checked",
+      "last_reviewed": "2026-11-16",
+      "review_notes": [
+        "2026-11-16: retro mainstream filter: series sold at Target/Walmart since Sep 2025 (S3 is a new wave of the same line). Verdict: late miss; relabelled 2026-11-16 (owner approved)."
+      ],
+      "first_clear_signal": "2025-09",
+      "trend_age_months": 13,
+      "trend_label": "Mainstream - not an early pick",
+      "mainstream_filter": "failed",
       "follow_up_3m": "2027-01-28",
       "follow_up_6m": "2027-04-28"
     },
@@ -55,18 +58,21 @@
       "category": "fashion-apparel",
       "identified_on": "2026-10-28",
       "lifecycle": {
+        "first_signal": "2022-12",
         "spotted": "2026-10-28",
-        "phase": "early",
-        "verdict": "early_pick"
+        "phase": "mainstream",
+        "verdict": "late_miss"
       },
       "stage_at_identification": "Early",
       "status": "watching",
-      "last_reviewed": null,
-      "review_notes": [],
-      "first_clear_signal": null,
-      "trend_age_months": null,
-      "trend_label": null,
-      "mainstream_filter": "not yet checked",
+      "last_reviewed": "2026-11-16",
+      "review_notes": [
+        "2026-11-16: retro mainstream filter: Amazon listing approx late 2022; Kitsch called it viral Dec 2025; sold at Ulta. Verdict: late miss; relabelled 2026-11-16 (owner approved)."
+      ],
+      "first_clear_signal": "2022-12",
+      "trend_age_months": 46,
+      "trend_label": "Mainstream - not an early pick",
+      "mainstream_filter": "failed",
       "follow_up_3m": "2027-01-28",
       "follow_up_6m": "2027-04-28"
     },
@@ -77,18 +83,21 @@
       "category": "fashion-apparel",
       "identified_on": "2026-10-28",
       "lifecycle": {
+        "first_signal": "2025-02",
         "spotted": "2026-10-28",
-        "phase": "rising",
-        "verdict": "early_pick"
+        "phase": "mainstream",
+        "verdict": "late_miss"
       },
       "stage_at_identification": "Early–mid",
       "status": "watching",
-      "last_reviewed": null,
-      "review_notes": [],
-      "first_clear_signal": null,
-      "trend_age_months": null,
-      "trend_label": null,
-      "mainstream_filter": "not yet checked",
+      "last_reviewed": "2026-11-16",
+      "review_notes": [
+        "2026-11-16: retro mainstream filter: on Amazon since 2025-02-07. Verdict: late miss; relabelled 2026-11-16 (owner approved)."
+      ],
+      "first_clear_signal": "2025-02-07",
+      "trend_age_months": 20,
+      "trend_label": "Mainstream - not an early pick",
+      "mainstream_filter": "failed",
       "follow_up_3m": "2027-01-28",
       "follow_up_6m": "2027-04-28"
     },
@@ -149,18 +158,21 @@
       "category": "books-media",
       "identified_on": "2026-10-28",
       "lifecycle": {
+        "first_signal": "2019",
         "spotted": "2026-10-28",
-        "phase": "early",
-        "verdict": "early_pick"
+        "phase": "mainstream",
+        "verdict": "late_miss"
       },
       "stage_at_identification": "Early",
       "status": "watching",
-      "last_reviewed": null,
-      "review_notes": [],
-      "first_clear_signal": null,
-      "trend_age_months": null,
-      "trend_label": null,
-      "mainstream_filter": "not yet checked",
+      "last_reviewed": "2026-11-16",
+      "review_notes": [
+        "2026-11-16: retro mainstream filter: published 2019, has an English Wikipedia article (Penguin edition Sep 2026). Verdict: late miss; relabelled 2026-11-16 (owner approved)."
+      ],
+      "first_clear_signal": "2019",
+      "trend_age_months": 93,
+      "trend_label": "Mainstream - not an early pick",
+      "mainstream_filter": "failed",
       "follow_up_3m": "2027-01-28",
       "follow_up_6m": "2027-04-28"
     },
@@ -173,17 +185,19 @@
       "lifecycle": {
         "first_signal": "2026-05",
         "spotted": "2026-10-28",
-        "phase": "rising",
-        "verdict": "early_pick"
+        "phase": "mainstream",
+        "verdict": "late_miss"
       },
       "stage_at_identification": "Mid",
       "status": "watching",
-      "last_reviewed": null,
-      "review_notes": [],
-      "first_clear_signal": null,
-      "trend_age_months": null,
-      "trend_label": null,
-      "mainstream_filter": "not yet checked",
+      "last_reviewed": "2026-11-16",
+      "review_notes": [
+        "2026-11-16: retro mainstream filter: released 2026-05-12, hit USA Today bestseller list at launch, mainstream at launch. Verdict: late miss; relabelled 2026-11-16 (owner approved)."
+      ],
+      "first_clear_signal": "2026-05-12",
+      "trend_age_months": 5,
+      "trend_label": "Mainstream - not an early pick",
+      "mainstream_filter": "failed",
       "follow_up_3m": "2027-01-28",
       "follow_up_6m": "2027-04-28"
     },
@@ -420,18 +434,21 @@
       "category": "pet-supplies",
       "identified_on": "2026-10-28",
       "lifecycle": {
+        "first_signal": "2018",
         "spotted": "2026-10-28",
-        "phase": "rising",
-        "verdict": "early_pick"
+        "phase": "mainstream",
+        "verdict": "late_miss"
       },
       "stage_at_identification": "Early–mid",
       "status": "watching",
-      "last_reviewed": null,
-      "review_notes": [],
-      "first_clear_signal": null,
-      "trend_age_months": null,
-      "trend_label": null,
-      "mainstream_filter": "not yet checked",
+      "last_reviewed": "2026-11-16",
+      "review_notes": [
+        "2026-11-16: retro mainstream filter: on Amazon since 2018, seasonal return. Verdict: late miss; relabelled 2026-11-16 (owner approved)."
+      ],
+      "first_clear_signal": "2018",
+      "trend_age_months": 105,
+      "trend_label": "Mainstream - not an early pick",
+      "mainstream_filter": "failed",
       "follow_up_3m": "2027-01-28",
       "follow_up_6m": "2027-04-28"
     },
@@ -442,18 +459,21 @@
       "category": "kitchen-dining",
       "identified_on": "2026-10-28",
       "lifecycle": {
+        "first_signal": "2022-06",
         "spotted": "2026-10-28",
-        "phase": "early",
-        "verdict": "early_pick"
+        "phase": "mainstream",
+        "verdict": "late_miss"
       },
       "stage_at_identification": "Early",
       "status": "watching",
-      "last_reviewed": null,
-      "review_notes": [],
-      "first_clear_signal": null,
-      "trend_age_months": null,
-      "trend_label": null,
-      "mainstream_filter": "not yet checked",
+      "last_reviewed": "2026-11-16",
+      "review_notes": [
+        "2026-11-16: retro mainstream filter: launched June 2022. Verdict: late miss; relabelled 2026-11-16 (owner approved)."
+      ],
+      "first_clear_signal": "2022-06",
+      "trend_age_months": 52,
+      "trend_label": "Mainstream - not an early pick",
+      "mainstream_filter": "failed",
       "follow_up_3m": "2027-01-28",
       "follow_up_6m": "2027-04-28"
     },
