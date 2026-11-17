@@ -1648,6 +1648,206 @@
       "reason": "Still below the preorder-week peak, so no new 12-month max yet; keep on watchlist until 2027-01-24",
       "outcome_3m": null,
       "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "ORB Smushers Juicy Crew Fruit 2-packs",
+      "category": "toys-collectibles",
+      "signals": "Trends US 'juicy crew smushers' 0 -> 34 -> 100 -> 83 (since wk 2026-11-01); parent line Trends 'smushers' flat 31-45 since first signal 2026-04-05; Amazon Toys New Releases #10/#12/#29 (B0HNTX3DCJ, B0HNTP8CQF, B0HNTYJ9QW, checked 2026-11-17), all 3 packs out of stock on Amazon 2026-11-02 (toydirectory.com/monthly/article.asp?id=6677); specialty sellouts Learning Express Houston, Villainous Lounge; Wikipedia: none; dupes: 'smushers dupe' Google 6 (incl. CVS, Shein), 'orb smushers dupe' 0; TikTok views not checked",
+      "decision": "REJECT",
+      "reason": "New wave inherits Smushers line age (first signal ~2026-04, >6 months); 'smushers dupe' shows 6 suggestions incl. CVS (mainstream sign)",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Salish Matter Kind Society mini plush clip blind pack",
+      "category": "toys-collectibles",
+      "signals": "Release 2026-09-21 (toywiz.com, License 2 Play, UPC 630996600191), out of stock at ToyWiz 2026-11-17; Trends US 'kind society plush' 0 -> 79 -> 0 -> 66 -> 65 -> 100 (12m max wk 2026-11-15), 'salish plush' 0 -> 72 -> 57 -> 100 since 2026-11-01; Amazon autocomplete 10 'kind society salish ...' suggestions but no Amazon US listing found (search 2026-11-17); Wikipedia: article for creator Salish Matter, none for product; dupes 0 ('kind society dupe', 'salish plush dupe')",
+      "decision": "WATCHLIST",
+      "reason": "Age ~1.9 months and filters pass so far, but not buyable on Amazon US",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Honeybalm lip balm (honey jar with Honeyspoon)",
+      "category": "beauty-makeup",
+      "signals": "Brand founded 2023 in NL (honeybalm.com/pages/our-story; orderchamp.com), sold at Superdrug UK; Trends US 'honeybalm' ~0 for 11 months then 15 -> 23 -> 42 -> 100 -> 90 (Oct-Nov 2026); Amazon US brand listings (191 ratings); many honey-pot balm copies on Amazon since 2022 (e.g. B0BM8X2HVN; 'Bee Lip Balm Honey Pot' listings with 1.1K ratings); dupes Google 2 ('honeybalm boots dupe'); Wikipedia none; brand ad listicle landing pages (honeybalm.com/pages/listicle-...)",
+      "decision": "REJECT",
+      "reason": "Brand older than 6 months; US re-acceleration has no documented organic trigger (looks ad-driven), only one source accelerating; format already widely copied",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Eadem Le Chouchou lip balm",
+      "category": "beauty-makeup",
+      "signals": "Launched 2024 (essence.com); new shades 2026-02-18 (r/newinbeauty); Trends 'eadem lip gloss' climbing to 12m max (27 -> 100 over 12 weeks)",
+      "decision": "REJECT",
+      "reason": "Product line launched 2024 (>6 months), steady climb with no plateau so no sleeper exception",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Okura cookware",
+      "category": "kitchen-dining",
+      "signals": "Trends 'okura cookware' first nonzero 2026-01-25, steady 42-84 since, 100 on wk 2026-11-15",
+      "decision": "REJECT",
+      "reason": "Signal since Jan 2026 (>6 months), no plateau/re-acceleration",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Coconut oil squishy (generic)",
+      "category": "toys-collectibles",
+      "signals": "Trends 'coconut oil squishy' first nonzero 2026-03-01, 39-65 then 87 -> 100; Amazon Toys New Releases #8/#17 are unbranded listings",
+      "decision": "REJECT",
+      "reason": "Generic unbranded format, signal since Mar 2026 (>6 months)",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Maybelline CryoBlur Setting Spray",
+      "category": "beauty-makeup",
+      "signals": "Trends 0 -> 48 -> 100 -> 53 (from wk 2026-11-01); Amazon Beauty New Releases #14 (B0HMHPH2CR)",
+      "decision": "REJECT",
+      "reason": "Mass-market brand launch spike already declining; no independent long-lead second source",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Pantene x Abbey Yung Cream to Mist leave-in",
+      "category": "beauty-makeup",
+      "signals": "Trends peak 100 at launch wk 2026-09-27, now 13-27; Amazon Beauty New Releases #16 (B0HFM6BJJ7)",
+      "decision": "REJECT",
+      "reason": "Past peak (current <50% of launch peak); mass-market brand",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Mini cordless heated bang comb (generic)",
+      "category": "beauty-makeup",
+      "signals": "Trends 'mini heated comb' 0 -> 19 -> 100 -> 83; Amazon Beauty New Releases #19/#28 unbranded (B0HPN1FRJV, B0HPDT3DXD)",
+      "decision": "REJECT",
+      "reason": "Generic unbranded format with many sellers; no brand to pick",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "'Igloo pencil' can koozie",
+      "category": "kitchen-dining",
+      "signals": "Trends 'igloo pencil water bottle' 0 -> 86 -> 100 -> 72 (from wk 2026-11-01); product is a 3D-printed handmade koozie (simplybeewellcreations.com, makerworld.com)",
+      "decision": "REJECT",
+      "reason": "Handmade/3D-print item, not an Igloo product and not a brand listing on Amazon",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "JLo Beauty Beso Bling limited Beso Balm",
+      "category": "beauty-makeup",
+      "signals": "Trends rising query 'jlo lip balm' +66,500% (1 month); preorders 2026-11-02, $150 each (holrmagazine.com); The Cut coverage of the controversy",
+      "decision": "REJECT",
+      "reason": "Celebrity limited edition sold on jlobeauty.com, not on Amazon; major media coverage",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Cremerie Frenchy Bears blind box",
+      "category": "beauty-makeup",
+      "signals": "Trends rising query 'cremerie blind box' +45,650% (1 month); sold at Target (target.com A-95253163)",
+      "decision": "REJECT",
+      "reason": "Big-box (Target) distribution",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "FIREUP Everyday Braiser",
+      "category": "kitchen-dining",
+      "signals": "Kickstarter 2026-09-29 to 2026-10-30, $87,575 from 457 backers (fundinginsidernewyork.com; pledgebox.com); Trends: no data",
+      "decision": "REJECT",
+      "reason": "Crowdfunding finished and not shipping yet; no Amazon US listing; only one source",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Togi Bulk Bar (protein bar)",
+      "category": "food-drink",
+      "signals": "Trends rising query 'togi protein bar' +13,800% (1 month); announced only (suppwire.net)",
+      "decision": "REJECT",
+      "reason": "Not launched, no Amazon listing",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "HydroJug Black Friday blind box",
+      "category": "sports-outdoors",
+      "signals": "Trends rising query 'hydrojug blind box' +58,000% (1 month); launch 2026-11-26 on thehydrojug.com",
+      "decision": "REJECT",
+      "reason": "Inherits HydroJug line age (years); brand-site drop, not Amazon",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Microduck (Pollen Robotics)",
+      "category": "tech-gadgets",
+      "signals": "Demo at GTC Berlin 2026-10-21, 20,000+ preorders next day; ships after Apr 2027 (thepixxie.com 2026-11-08)",
+      "decision": "REJECT",
+      "reason": "Only sold through the Pollen store as a preorder; not on Amazon",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Dumb Doggo plush",
+      "category": "toys-collectibles",
+      "signals": "Trends rising query 'dumb doggo plush' +2,800% (1 month); sold via fan/merch stores (dumbdoggoplushies.com, plushfoundry.com)",
+      "decision": "REJECT",
+      "reason": "Fan-merch storefronts, no official brand listing on Amazon",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Spartus Spitfire pickleball paddle (recheck)",
+      "category": "sports-outdoors",
+      "signals": "Amazon US search 2026-11-17 only shows the Spartus Apex paddle",
+      "decision": "REJECT",
+      "reason": "Still not buyable on Amazon US",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Boox Picco (watchlist recheck)",
+      "category": "tech-gadgets",
+      "signals": "Trends 'boox picco' last 4 weeks 52, 76, 79, 77 vs 12m peak on wk 2026-09-27; Amazon B0HKJLY83D in stock, BSR #1,895 Electronics / #14 eBook Readers, 22 ratings (2026-11-17)",
+      "decision": "WATCHLIST",
+      "reason": "No new 12m Trends max yet",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Losy Kim PDRN Tinted Lip Ampoule (watchlist recheck)",
+      "category": "beauty-makeup",
+      "signals": "Amazon B0FR9G6H6K still 'Currently unavailable', no featured offer, BSR #406,098 Beauty (2026-11-17); Trends 'losy kim' recent weeks 25, 28, 21 (noisy sample, single 100 week 2026-09-13)",
+      "decision": "WATCHLIST",
+      "reason": "Still not buyable on Amazon US; no second US source",
+      "outcome_3m": null,
+      "outcome_6m": null
     }
   ],
   "watchlist": [
@@ -1665,8 +1865,8 @@
       "why_not_pick": "Trends weekly peak on preorder week 2026-09-27 (=100) is above the current value (74/77/81) so the strict 'current = 12m max' gate fails. YouTube uploads are accelerating (17 in last ~4 weeks vs 2 the month before) and it sold out in the US.",
       "recheck": "Promote if Trends sets new 12m max before 2027-01-24 (6-month cutoff)",
       "score_estimate": "~55-65 (gate fails)",
-      "last_rechecked": "2026-11-13",
-      "recheck_note": "2026-11-13: Trends weekly since peak (100 on 2026-09-27): 62,49,48,60,71,76 - rising again but no new 12m max; stays on watchlist."
+      "last_rechecked": "2026-11-17",
+      "recheck_note": "2026-11-17: Trends last 4 weeks 52, 76, 79, 77, still below the 12m peak of wk 2026-09-27; Amazon B0HKJLY83D in stock, BSR #1,895 Electronics / #14 eBook Readers; stays on watchlist."
     },
     {
       "name": "Losy Kim PDRN Tinted Lip Ampoule",
@@ -1680,6 +1880,23 @@
       "added": "2026-11-13",
       "why_not_pick": "Not buyable on Amazon US right now, and Google Trends is the only accelerating US source. Trigger for the re-acceleration not documented yet. Wikipedia none, dupes 0/0, Olive Young Global Top Orders #7 (2026-11-01).",
       "recheck": "Promote via the sleeper exception if the brand's Amazon US listing is back in stock AND a second US source accelerates, with all mainstream checks still passing, before ~2027-05-01 (6 months from re-acceleration)",
+      "keyword_planner": "not checked",
+      "last_rechecked": "2026-11-17",
+      "recheck_note": "2026-11-17: Amazon B0FR9G6H6K still Currently unavailable (no featured offer, BSR #406,098 Beauty); no second US source; stays on watchlist."
+    },
+    {
+      "name": "Salish Matter Kind Society mini plush clip blind pack",
+      "brand": "Kind Society (Salish Matter x License 2 Play)",
+      "category": "toys-collectibles",
+      "status": "WATCHLIST",
+      "asin": null,
+      "amazon_url": null,
+      "sold_by": "Not on Amazon US (search 2026-11-17); ToyWiz lists it out of stock",
+      "first_signal": "2026-09-21 release (https://toywiz.com/salish-kind-society-plush-clip-mystery-pack/)",
+      "added": "2026-11-17",
+      "age_months": 1.9,
+      "why_not_pick": "Not buyable on Amazon US. Trends 'kind society plush' at 12m max (wk 2026-11-15), 'salish plush' rising since 2026-11-01, Amazon autocomplete shows 10 'kind society salish' queries, dupes 0. Creator Salish Matter has a Wikipedia article; the product does not.",
+      "recheck": "Promote if an official Amazon US listing (brand or License 2 Play) appears before 2027-03-21 and all mainstream checks still pass (watch for big-box exclusives)",
       "keyword_planner": "not checked"
     }
   ]
