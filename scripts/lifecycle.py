@@ -699,7 +699,7 @@ def update_misses(ordered, picks):
         new_head = (
             '      <div class="section-head">\n'
             "        <h2>Our misses</h2>\n"
-            '        <a href="../trends/index.html">All trends &rarr;</a>\n'
+            '        <a href="../trends/">All trends &rarr;</a>\n'
             "      </div>"
         )
         html = html[:head] + new_head + "\n" + notices + block + "\n      " + html[affiliate:]
