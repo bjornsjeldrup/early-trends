@@ -1848,6 +1848,206 @@
       "reason": "Still not buyable on Amazon US; no second US source",
       "outcome_3m": null,
       "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "Boox Picco (watchlist recheck)",
+      "category": "tech-gadgets",
+      "signals": "Trends US 12m (browser sample 2026-11-20, not a full weekly export): Sep 6-12=95, partial week Nov 15-21=85, latest below an earlier peak; Wikipedia: no Picco article, brand article Onyx Boox exists, pageviews Oct 2026=2944 (Nov 2026 bucket incomplete); dupe suggestions: 'boox picco dupe' Google 4, 'boox dupe' Google 4, Amazon 0/0; TikTok hashtag views: not checked; Amazon B0HKJLY83D search snippet 2026-11-20: in stock, BSR #1,510 Electronics / #13 eBook Readers, 28 ratings, US seller name not in the snippet; Date First Available: not re-checked; Kickstarter: none; Asia ranking: not checked",
+      "decision": "WATCHLIST",
+      "reason": "Still below an earlier 12-month Trends peak, so it does not clear the peak gate. Stays on the watchlist until 2027-01-24.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "Losy Kim PDRN Tinted Lip Ampoule (watchlist recheck)",
+      "category": "beauty-makeup",
+      "signals": "Trends US 12m (browser 2026-11-20): week of Oct 25-31=100, partial week Nov 15-21=22, already below that peak; Wikipedia: no article, pageviews n/a; dupe suggestions: 'losy kim dupe' Google 0, Amazon 0; TikTok hashtag views: not checked; Amazon B0FR9G6H6K: Currently unavailable, no featured offer, BSR #402,131 Beauty / #836 Lip Stains, 50 ratings (page fetched 2026-11-20); Date First Available: not shown; Kickstarter: none; Asia ranking: not re-checked (prior note Olive Young Global Top Orders #7 on 2026-11-01); brand site losykim.us still sold out",
+      "decision": "WATCHLIST",
+      "reason": "Still not buyable on Amazon US (B0FR9G6H6K unavailable) and US search has already fallen off its late-October peak. No second US source.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "Salish Matter Kind Society mini plush clip blind pack (watchlist recheck)",
+      "category": "toys-collectibles",
+      "signals": "Trends US 12m (browser sample 2026-11-20): week of Oct 25-31=100, Nov 8-14=75, partial week Nov 15-21=91, latest below the sampled high; Wikipedia: article for creator Salish Matter (pageviews Oct 2026=42700), none for the product; dupe suggestions: 'kind society dupe' 0, 'salish plush dupe' 0; TikTok hashtag views: not checked; Amazon: no US listing found (search returned GUI GUI slime, not the plush); Amazon autocomplete 'kind society plush' 10 suggestions; Date First Available: n/a; Kickstarter: none; Asia ranking: not checked; License 2 Play wholesale page says not available for third-party sellers",
+      "decision": "WATCHLIST",
+      "reason": "Still not buyable on Amazon US. Sampled Trends points are also below an earlier week, so a listing alone would still need a fresh read of the curve.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "SHURINK HOME ZAP PORE SHOT",
+      "category": "beauty-makeup",
+      "signals": "Trends US 12m: 'zap pore shot' and 'shurink home' both 'not enough data' (browser 2026-11-20); Wikipedia: no product article; company article Classys exists, pageviews Oct 2026=123; dupe suggestions: 'zap pore shot dupe' 0, 'shurink home dupe' 1 ('shurink home review'), 'shurink dupe' 0, Amazon 0; TikTok hashtag views: not checked (one TikTok Shop creator post dated 2026-10-08); Amazon B0H7JP5SQJ in stock, sold by Skederm Inc. (not SHURINK HOME), manufacturer Shurink Home, BSR #692,283 Beauty / #1,180 Wrinkle & Anti-Aging Devices, 24 ratings, 200+ viewed in past week (page fetched 2026-11-20); Date First Available: not shown; Korea Kakao launch 2026-08-17, preorder from 2026-08-06 (~2,000 in 3 days; company later said 6,000 preorders); US Amazon/TikTok Shop launch 2026-10-06; Qoo10 Japan Mega Wari beauty-device #1 as of 2026-09-04; LIPS Japan release date 2026-08-21; Kickstarter: none",
+      "decision": "WATCHLIST",
+      "reason": "Asia demand is real (Kakao preorders, Qoo10 Japan beauty-device No. 1), but the Amazon US offer is sold by Skederm Inc. rather than the brand, and US search has no measurable trend yet.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "d'Alba White Truffle First Spray Serum Pro 2X Peptide",
+      "category": "beauty-makeup",
+      "signals": "Trends US: not checked this run; Wikipedia: no product article; dupe suggestions: 'dalba dupe' Google 10, 'dalba pro 2x dupe' 0; TikTok hashtag views: not checked; Amazon ASIN B0HD5TZZR3, about 149 ratings in a keyword snapshot, original First Spray Serum B0BFQ9RD5B about 36,930 ratings; Date First Available: not opened; PR Newswire launch 2026-09-21, available on Amazon and TikTok Shop that day; Korea sell-out claims (10,000 units in 7 days; livestream 10,000 in 40 minutes) are brand-reported via Jangup/Sportschosun; Kickstarter: none; Asia ranking: d'Alba spray lines already sit in Olive Young Global skincare lists",
+      "decision": "REJECT",
+      "reason": "Pro 2X is an upgraded edition of the existing First Spray Serum line, which already has tens of thousands of Amazon ratings. 'dalba dupe' returns 10 suggestions.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "OFFLOW Knot Glossy Lip Tint",
+      "category": "beauty-makeup",
+      "signals": "Trends US 'offlow lip': not enough data (browser 2026-11-20); Wikipedia: no brand article (Offlow is an unrelated place); dupe suggestions: 'offlow dupe' 0, 'offlow lip dupe' 0; TikTok hashtag views: not checked; Amazon examples B0H264H9XL BSR #428,567 Beauty / #942 Lip Stains, 26 ratings, and B0H2624584 BSR #181,393 / #590 Lip Stains; seller and Date First Available not confirmed; brand first products announced for 2026-05-06 (Consumertimes 2026-04-30); Olive Young Korea live ranking #4 on the morning of 2026-11-14, tagged NEW, 321 reviews; Glowmeter first price observation 2026-10-29; Qoo10 Japan official shop opened 2026-10-21; Kickstarter: none",
+      "decision": "REJECT",
+      "reason": "The Knot line's launch date is 2026-05-06, before the six-month cutoff. The November Olive Young rank is a later wave of the same line, and US search still has no data.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "Ninja PREPi",
+      "category": "kitchen-dining",
+      "signals": "Trends US: not checked; Wikipedia: no product article; dupe suggestions: 'ninja prepi dupe' Google 4; TikTok hashtag views: not checked; Amazon listed by 2026-10-04, sold by Amazon.com on the models The Gadgeteer checked; Date First Available: not opened; SharkNinja press release launch 2026-10-02; T3 (2026-10-05) says sold at SharkNinja and Walmart; Tekmono (2026-11-09) says Ninja, Amazon, Target, Walmart and Best Buy; Kickstarter: none; Asia ranking: not checked",
+      "decision": "REJECT",
+      "reason": "Walmart and Target already sell it. A new SharkNinja appliance in big-box stores is not an early niche signal.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "unlabel LAB R ESSENCE",
+      "category": "beauty-makeup",
+      "signals": "Trends US: not checked; Wikipedia: not checked; dupe suggestions: not checked; TikTok hashtag views: not checked; Amazon: PR says available, ASIN not opened; Date First Available: not checked; PR Newswire 2026-11-03 US debut; same release says Costco stores nationwide later in November; Kickstarter: none; Asia ranking: not checked",
+      "decision": "REJECT",
+      "reason": "The launch release says it is going into Costco nationwide the same month.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "Owala Coca-Cola and Diet Coke tumblers (new Amazon styles)",
+      "category": "kitchen-dining",
+      "signals": "Trends US: not checked; Wikipedia: not checked for this collab; dupe suggestions: not checked; TikTok hashtag views: not checked; Amazon: Good Housekeeping says four 24-ounce styles launched exclusively on Amazon 2026-11-16; Date First Available: not opened; prior Diet Coke collection was a Target exclusive last year; Kickstarter: none; Asia ranking: not checked",
+      "decision": "REJECT",
+      "reason": "New styles of the Owala bottle line, which is already years old, plus a prior Target exclusive and a Good Housekeeping write-up on day one.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "e.l.f. SHIMMER Glow Reviver Lip Oil",
+      "category": "beauty-makeup",
+      "signals": "Trends US: not checked; Wikipedia: not checked; dupe suggestions: not checked; TikTok: BuzzFeed (2026-11-14) calls the shimmer sticks mega-viral, view count not checked; Amazon: limited shades listed in that roundup, ASIN and Date First Available not opened; Kickstarter: none; Asia ranking: not checked",
+      "decision": "REJECT",
+      "reason": "Limited shimmer edition of e.l.f.'s existing Glow Reviver line. Mass-market brand, already described as mega-viral.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "SKULLPANDA Where Time Dwells",
+      "category": "toys-collectibles",
+      "signals": "Trends US: not checked; Wikipedia: not checked for this series; dupe suggestions: not checked; TikTok hashtag views: not checked; Amazon: Blind Box Beacon (checked 2026-11-19) shows the series at retail from the brand store; Date First Available: not opened; series release 2026-09-17 per Blind Box Beacon; Kickstarter: none; Asia: Pop Mart",
+      "decision": "REJECT",
+      "reason": "A new SKULLPANDA series inherits that Pop Mart line. The line is already a wide retail collectible, in the same aisle as the Labubu case study.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "Lying cat silicone night lamp",
+      "category": "home-decor",
+      "signals": "Trends US: not checked; Wikipedia: not checked; dupe suggestions: not checked; TikTok: BuzzFeed (2026-11-14) links a clip, view count not checked; Amazon listings from several sellers, including Mubarek B0CH9K8NST and others (B0DJYM8MH9, B0G8HQSK97); Newegg first-listed one Mubarek model 2026-09-08; Date First Available: not opened; Kickstarter: none; Asia ranking: not checked",
+      "decision": "REJECT",
+      "reason": "Generic multi-seller silicone lamp, not one brand's listing. The Mubarek ASIN prefix is older than this month's buzz.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "NeeDoh Dream Drop Color Splash",
+      "category": "toys-collectibles",
+      "signals": "Trends US: not checked; Wikipedia: not checked; dupe suggestions: not checked; TikTok hashtag views: not checked; Amazon: TDmonthly (2026-11-09) had it at No. 6 in Toys & Games and No. 1 in Hot New Releases, called an Amazon exclusive, while Nice Cube, Nice Ice Baby and Teenie Color Change held the top three Best Sellers spots; Date First Available: not opened; Kickstarter: none; Asia ranking: not checked; Target NeeDoh x LAVA lamp sold out in stores around 2026-11-08",
+      "decision": "REJECT",
+      "reason": "New wave of NeeDoh. The line is already mainstream on this site and was holding Amazon's toy top three the same week.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "InstaSpot ultrasonic stain remover pen",
+      "category": "home-decor",
+      "signals": "Trends US: not checked; Wikipedia: not checked; dupe suggestions: not checked; TikTok hashtag views: not checked; Amazon US listing: not found; Kickstarter launched 2026-09-15, about $638,304 from 6,097 backers in 20 days (PledgeRadar, 2026-10-10); Date First Available: n/a; Asia ranking: not checked",
+      "decision": "REJECT",
+      "reason": "Crowdfunding pace is real, but it is not for sale on Amazon US, so there is no brand listing to point at.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "Hince True Dimension Radiance Balm",
+      "category": "beauty-makeup",
+      "signals": "Trends US: not checked; Wikipedia: not checked; dupe suggestions: not checked; TikTok hashtag views: not checked; Amazon brand listing: not confirmed; People (November 2026 beauty launches) says Ulta introduced Hince on 2026-11-01 and calls the balm the number one highlighter at Olive Young in Korea; Kickstarter: none; Asia: Olive Young Korea #1 highlighter (as described by People)",
+      "decision": "REJECT",
+      "reason": "Already the number-one highlighter at Olive Young, with a People write-up and a Ulta debut. Not an early US Amazon brand listing.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "Folura hair density softgel",
+      "category": "health-wellness",
+      "signals": "Trends US: not checked; Wikipedia: not checked; dupe suggestions: not checked; TikTok hashtag views: not checked; Amazon B0HGNWDQM6 named in the PR, page not opened, rank unknown; Date First Available: not checked; PR Newswire 2026-10-14 launch by Triquetra Health; Kickstarter: none; Asia ranking: not checked; no second accelerating source found",
+      "decision": "REJECT",
+      "reason": "A launch press release only. No second source was accelerating.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "Downy Unstopables Unlimited N.26 Rose",
+      "category": "home-decor",
+      "signals": "Trends US: not checked; Wikipedia: not checked; dupe suggestions: not checked; TikTok: BuzzFeed (2026-11-14) says the scent has blown up, view count not checked; Amazon: named in that roundup, ASIN and Date First Available not opened; Kickstarter: none; Asia ranking: not checked",
+      "decision": "REJECT",
+      "reason": "New scent of a Procter & Gamble bead line that is already a big-box staple.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "Dr Teal's Toasty Caramel Epsom salt",
+      "category": "health-wellness",
+      "signals": "Trends US: not checked; Wikipedia: not checked; dupe suggestions: not checked; TikTok hashtag views: not checked; Amazon: BuzzFeed (2026-11-14) lists it as a new limited scent, ASIN and Date First Available not opened; Kickstarter: none; Asia ranking: not checked",
+      "decision": "REJECT",
+      "reason": "Seasonal scent of the Dr Teal's bath line. The line is already a mass-market bath product.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "CrunchLabs Crunchinator",
+      "category": "toys-collectibles",
+      "signals": "Trends US: not checked; Wikipedia: not checked; dupe suggestions: not checked; TikTok hashtag views: not checked; YouTube: Mark Rober's 'Can Anything Survive My Crunchinator?' had passed 9.5 million views by 2026-11-07 (PlayZak); Amazon B0G3Y3RNZQ, release date 2026-07-15 on a product-detail mirror, 150 ratings in a search snippet, PlayZak had it No. 14 in Toys & Games and No. 1 in Science Kits on 2026-11-07, sold by Amazon.com; Walmart had it in stock by 2026-08-26 (Trendsicle) and Take My Money (2026-10-29) also lists Target; line announced 2026-02-10 (PR Newswire); Kickstarter: none; Asia ranking: not checked",
+      "decision": "REJECT",
+      "reason": "Walmart and Target already sell it, and it was already No. 14 in Toys. A Mark Rober / Moose Toys retail line is not an early pick.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-20",
+      "name": "Gui Gui Mega Slime Haul",
+      "category": "toys-collectibles",
+      "signals": "Trends US: not checked; Wikipedia: not checked; dupe suggestions: not checked; TikTok hashtag views: not checked; Amazon: PlayZak (2026-11-07) had the Mega Slime Haul at No. 27 in Toys and No. 1 in Slime & Putty, sold by Amazon.com, and a 2027 Toy of the Year finalist; older Gui Gui by Salish kit B0FLKLDV4B already showed about 413 ratings; Date First Available for the Mega Haul: not opened; Kickstarter: none; Asia ranking: not checked",
+      "decision": "REJECT",
+      "reason": "New set in the Gui Gui slime line, which already has hundreds of Amazon ratings, plus a Toy of the Year finalist slot.",
+      "outcome_3m": null,
+      "outcome_6m": null
     }
   ],
   "watchlist": [
@@ -1861,12 +2061,12 @@
       "sold_by": "BOOX Global",
       "first_signal": "2026-07-24 (https://www.theverge.com/tech/970618/onyx-boox-picco-ereader-xteink)",
       "preorder": "2026-09-28",
-      "age_months": 3.6,
+      "age_months": 3.9,
       "why_not_pick": "Trends weekly peak on preorder week 2026-09-27 (=100) is above the current value (74/77/81) so the strict 'current = 12m max' gate fails. YouTube uploads are accelerating (17 in last ~4 weeks vs 2 the month before) and it sold out in the US.",
       "recheck": "Promote if Trends sets new 12m max before 2027-01-24 (6-month cutoff)",
       "score_estimate": "~55-65 (gate fails)",
-      "last_rechecked": "2026-11-17",
-      "recheck_note": "2026-11-17: Trends last 4 weeks 52, 76, 79, 77, still below the 12m peak of wk 2026-09-27; Amazon B0HKJLY83D in stock, BSR #1,895 Electronics / #14 eBook Readers; stays on watchlist."
+      "last_rechecked": "2026-11-20",
+      "recheck_note": "2026-11-20: US Trends sample still below an earlier peak (Sep 6-12 at 95; partial week Nov 15-21 at 85). Amazon B0HKJLY83D in stock, BSR #1,510 Electronics / #13 eBook Readers, 28 ratings. Stays on watchlist."
     },
     {
       "name": "Losy Kim PDRN Tinted Lip Ampoule",
@@ -1875,14 +2075,14 @@
       "status": "WATCHLIST",
       "asin": "B0FR9G6H6K",
       "amazon_url": "https://www.amazon.com/dp/B0FR9G6H6K",
-      "sold_by": "Losy Kim listing - currently unavailable, no featured offer (checked 2026-11-13)",
+      "sold_by": "Losy Kim listing B0FR9G6H6K - currently unavailable, no featured offer (checked 2026-11-20)",
       "first_signal": "2025 KR/US launch (https://losykim.us/blogs/our-story/your-lips-deserve-skincare-too-the-story-of-losy-kim-s-pdrn-tinted-lip-ampoule, 2025-10-27); possible sleeper re-acceleration in US Google Trends from week of 2026-11-01",
       "added": "2026-11-13",
       "why_not_pick": "Not buyable on Amazon US right now, and Google Trends is the only accelerating US source. Trigger for the re-acceleration not documented yet. Wikipedia none, dupes 0/0, Olive Young Global Top Orders #7 (2026-11-01).",
       "recheck": "Promote via the sleeper exception if the brand's Amazon US listing is back in stock AND a second US source accelerates, with all mainstream checks still passing, before ~2027-05-01 (6 months from re-acceleration)",
       "keyword_planner": "not checked",
-      "last_rechecked": "2026-11-17",
-      "recheck_note": "2026-11-17: Amazon B0FR9G6H6K still Currently unavailable (no featured offer, BSR #406,098 Beauty); no second US source; stays on watchlist."
+      "last_rechecked": "2026-11-20",
+      "recheck_note": "2026-11-20: B0FR9G6H6K still Currently unavailable (no featured offer, BSR #402,131 Beauty / #836 Lip Stains, 50 ratings). US Trends peaked the week of Oct 25-31 and the partial week of Nov 15-21 was 22. Brand site still sold out. Stays on watchlist."
     },
     {
       "name": "Salish Matter Kind Society mini plush clip blind pack",
@@ -1891,13 +2091,32 @@
       "status": "WATCHLIST",
       "asin": null,
       "amazon_url": null,
-      "sold_by": "Not on Amazon US (search 2026-11-17); ToyWiz lists it out of stock",
+      "sold_by": "Not on Amazon US (search 2026-11-20 returned GUI GUI slime, not the plush). License 2 Play wholesale says not available for third-party sellers.",
       "first_signal": "2026-09-21 release (https://toywiz.com/salish-kind-society-plush-clip-mystery-pack/)",
       "added": "2026-11-17",
-      "age_months": 1.9,
+      "age_months": 2.0,
       "why_not_pick": "Not buyable on Amazon US. Trends 'kind society plush' at 12m max (wk 2026-11-15), 'salish plush' rising since 2026-11-01, Amazon autocomplete shows 10 'kind society salish' queries, dupes 0. Creator Salish Matter has a Wikipedia article; the product does not.",
       "recheck": "Promote if an official Amazon US listing (brand or License 2 Play) appears before 2027-03-21 and all mainstream checks still pass (watch for big-box exclusives)",
-      "keyword_planner": "not checked"
+      "keyword_planner": "not checked",
+      "last_rechecked": "2026-11-20",
+      "recheck_note": "2026-11-20: still no official Amazon US listing. Sampled US Trends points are week of Oct 25-31 at 100, Nov 8-14 at 75, partial week Nov 15-21 at 91. Stays on watchlist."
+    },
+    {
+      "name": "SHURINK HOME ZAP PORE SHOT",
+      "brand": "SHURINK HOME (CLASSYS)",
+      "category": "beauty-makeup",
+      "status": "WATCHLIST",
+      "asin": "B0H7JP5SQJ",
+      "amazon_url": "https://www.amazon.com/dp/B0H7JP5SQJ",
+      "sold_by": "Skederm Inc. (checked 2026-11-20), not SHURINK HOME",
+      "first_signal": "2026-08-06 preorder (https://economist.co.kr/article/view/ecn202608120037); Kakao launch 2026-08-17; US launch 2026-10-06",
+      "added": "2026-11-20",
+      "age_months": 3.5,
+      "why_not_pick": "Korea and Japan demand is documented (Kakao preorders, Qoo10 Japan beauty-device No. 1 as of 2026-09-04), but the Amazon US offer is sold by Skederm Inc. and US Google Trends has no data for the product or the brand. Wikipedia: no product article; Classys company article only.",
+      "recheck": "Promote only if SHURINK HOME or CLASSYS itself is the Amazon US seller, a US signal is accelerating, and every mainstream check still passes, before 2027-02-17",
+      "keyword_planner": "not checked",
+      "last_rechecked": "2026-11-20",
+      "recheck_note": "2026-11-20: added. In stock at BSR #692,283 Beauty, 24 ratings, sold by Skederm Inc."
     }
   ]
 }
