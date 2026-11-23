@@ -309,21 +309,22 @@
       "category": "baby-kids",
       "identified_on": "2026-10-28",
       "lifecycle": {
-        "first_signal": "2026-09",
+        "first_signal": "2025-11",
         "spotted": "2026-10-28",
-        "phase": "early",
-        "verdict": "early_pick"
+        "phase": "mainstream",
+        "verdict": "late_miss"
       },
       "stage_at_identification": "Early",
       "status": "watching",
-      "last_reviewed": "2026-11-07",
+      "last_reviewed": "2026-11-23",
       "review_notes": [
-        "2026-11-07: Trend of the week (week of 2026-11-09). First public signal PR Newswire 2026-09-02; Meijer only, no national coverage."
+        "2026-11-07: Trend of the week (week of 2026-11-09). First public signal PR Newswire 2026-09-02; Meijer only, no national coverage.",
+        "2026-11-23: retro mainstream filter: original Penguin/Puppy/Unicorn characters launched in Walmart stores and online around 2025-11-20 (https://www.linkedin.com/posts/jason-dove-62714a28_im-excited-to-share-a-recent-illustration-activity-7397264270280830977-nEnQ ; Walmart listing https://www.walmart.com/ip/hand2mind-BubblePlush-Yoga-Ball-Buddy-Penguin/16820072858); the 2026-09-02 PR Newswire release only added three new characters. About 11 months old at identification. Amazon B0GF3LSKSW 2026-11-23: BSR #35,819 Toys & Games, 70 ratings, 200+ bought in past month. US Google Trends 'yoga ball buddy' 12m max is week of 2025-11-23. Verdict: late miss (relabel pending owner approval via this PR)."
       ],
-      "first_clear_signal": "2026-09-02",
-      "trend_age_months": 2,
-      "trend_label": "Early",
-      "mainstream_filter": "passed",
+      "first_clear_signal": "2025-11-20",
+      "trend_age_months": 11,
+      "trend_label": "Mainstream - not an early pick",
+      "mainstream_filter": "failed",
       "follow_up_3m": "2027-01-28",
       "follow_up_6m": "2027-04-28"
     },
@@ -341,9 +342,10 @@
       },
       "stage_at_identification": "Early–mid",
       "status": "watching",
-      "last_reviewed": "2026-11-09",
+      "last_reviewed": "2026-11-23",
       "review_notes": [
-        "2026-11-09: retro mainstream filter: launched/shipping Sep 30 2026 (https://us.yotoplay.com/press/en-US/270385-yoto-launches-yoto-player-4th-gen-and-yoto-mini-4th-gen-its-biggest-hardware-upgrade-yet/). Verdict: still early."
+        "2026-11-09: retro mainstream filter: launched/shipping Sep 30 2026 (https://us.yotoplay.com/press/en-US/270385-yoto-launches-yoto-player-4th-gen-and-yoto-mini-4th-gen-its-biggest-hardware-upgrade-yet/). Verdict: still early.",
+        "2026-11-23: US Google Trends 'yoto mini 4th gen' at 12m max in partial week from 2026-11-22 (100; 90 week of 11-15, 15 week of 10-25) (https://trends.google.com/trends/explore?date=today%2012-m&geo=US&q=yoto%20mini%204th%20gen). Many Amazon 4th Gen bundles plus third-party 4th Gen cases now listed; bundle B0HQF98MJG BSR #28,686 Toys & Games. Reviews: Stuff 2026-10-26, Irish Times 2026-10-24, allsubscriptionboxes 2026-11-12. Verdict: still early, rising (holiday-season effect possible)."
       ],
       "first_clear_signal": "2026-09-30",
       "trend_age_months": 0,
@@ -636,18 +638,19 @@
       "lifecycle": {
         "first_signal": "2026-08",
         "spotted": "2026-11-10",
-        "phase": "early",
+        "phase": "rising",
         "verdict": "early_pick"
       },
       "stage_at_identification": "Early",
       "status": "watching",
-      "last_reviewed": "2026-11-10",
+      "last_reviewed": "2026-11-23",
       "review_notes": [
-        "2026-11-10: Trend of the week (week of 2026-11-10). Line launch 2026-08-18, 11 shades, $24, Saie and Sephora (https://wwd.com/beauty-industry-news/color-cosmetics/saie-eyeshadow-launch-helena-christensen-1239095387/, https://substack.com/@saiebeauty/note/c-312120036). Bellini sell-out within hours on 2026-10-15; Saie among the most-searched brands on Sephora that day; TikTok Shop gift-set record not confirmed (https://cosmeticsdaily.com/news/saie-bellini-eyeshadow-sells-out-tiktok/, https://glasswend.com/hannah-chody-bellini-eyeshadow-saie-launch/, https://www.allure.com/story/hannah-chody-saie-collaboration-bellini-interview). Stock churn 2026-10-21 to 2026-10-27, out of stock since 2026-10-27 (https://www.trackalacker.com/products/showcase/saie-supersuede-baked-eyeshadow-bellini/listings/339052/saie-super-suede-baked-eyeshadow-bellini). Trend age from the earlier date, the 2026-08-18 launch, about 2.8 months. Label Early; turns Rising after 2026-11-18 if still growing. Mainstream filter passed: no Aldi, Walmart, Target, or Costco drop found (Kohl's lists the line, outside that test); Amazon parent B0HQ5BJL27 is new in the past month, 6 ratings, Best Sellers Rank about #14,094 in Beauty & Personal Care, not a top-100 long-runner; Bellini was not on that shade menu and UPC 810029484305 had no Amazon page. Coverage read: WWD, Cosmetics Daily, Glasswend, Allure. Google Trends: not checked."
+        "2026-11-10: Trend of the week (week of 2026-11-10). Line launch 2026-08-18, 11 shades, $24, Saie and Sephora (https://wwd.com/beauty-industry-news/color-cosmetics/saie-eyeshadow-launch-helena-christensen-1239095387/, https://substack.com/@saiebeauty/note/c-312120036). Bellini sell-out within hours on 2026-10-15; Saie among the most-searched brands on Sephora that day; TikTok Shop gift-set record not confirmed (https://cosmeticsdaily.com/news/saie-bellini-eyeshadow-sells-out-tiktok/, https://glasswend.com/hannah-chody-bellini-eyeshadow-saie-launch/, https://www.allure.com/story/hannah-chody-saie-collaboration-bellini-interview). Stock churn 2026-10-21 to 2026-10-27, out of stock since 2026-10-27 (https://www.trackalacker.com/products/showcase/saie-supersuede-baked-eyeshadow-bellini/listings/339052/saie-super-suede-baked-eyeshadow-bellini). Trend age from the earlier date, the 2026-08-18 launch, about 2.8 months. Label Early; turns Rising after 2026-11-18 if still growing. Mainstream filter passed: no Aldi, Walmart, Target, or Costco drop found (Kohl's lists the line, outside that test); Amazon parent B0HQ5BJL27 is new in the past month, 6 ratings, Best Sellers Rank about #14,094 in Beauty & Personal Care, not a top-100 long-runner; Bellini was not on that shade menu and UPC 810029484305 had no Amazon page. Coverage read: WWD, Cosmetics Daily, Glasswend, Allure. Google Trends: not checked.",
+        "2026-11-23: Phase early -> rising (age). Marketing Brew 2026-11-12: Bellini sold out on Sephora in 12 hours, 7,500+ waitlist, 1,300+ restock sign-ups, 305% sales lift on core shades, Sephora TikTok Shop Live set a unit-sales record (https://www.marketingbrew.com/stories/saie-bellini-tom-ford-dupe-hannah-chody-creator-brand-strategy). Bellini at Saie out of stock again 2026-11-18 after brief restock 2026-11-10 (https://www.trackalacker.com/products/showcase/saie-supersuede-baked-eyeshadow-bellini/listings/339052/saie-super-suede-baked-eyeshadow-bellini). Search cooling: US Trends 'saie bellini' 100 week of 2026-10-11 -> 8 partial week of 11-22; 'saie eyeshadow' 75 week of 11-01 -> 43 partial. Amazon B0HQ5BJL27 (child shown B0HLRJVL32) BSR #19,911 Beauty (was ~#14,094), 17 ratings. Verdict: mixed."
       ],
       "first_clear_signal": "2026-08-18",
-      "trend_age_months": 2.8,
-      "trend_label": "Early",
+      "trend_age_months": 3.2,
+      "trend_label": "Rising",
       "mainstream_filter": "passed",
       "follow_up_3m": "2027-02-10",
       "follow_up_6m": "2027-05-10"
@@ -666,9 +669,10 @@
       },
       "stage_at_identification": "Early",
       "status": "watching",
-      "last_reviewed": "2026-11-10",
+      "last_reviewed": "2026-11-23",
       "review_notes": [
-        "2026-11-10: Early pick in tech-gadgets, replacing FiiO DM13. Launch 2026-11-05 (Sony press release). Where to buy is Amazon B0HMJSKKRT."
+        "2026-11-10: Early pick in tech-gadgets, replacing FiiO DM13. Launch 2026-11-05 (Sony press release). Where to buy is Amazon B0HMJSKKRT.",
+        "2026-11-23: Sony said launch stock sold out in 10 hours; restocked as preorder shipping early December; scalpers at about double price (https://9to5google.com/2026/11/20/sony-walkman-mdr-3r-usb-c-headphones-hands-on/). Mainstream reviews WSJ, Business Insider, SoundGuys. US Trends 'sony mdr-3r' 100 week of 11-08 -> 55 -> 51 partial. Amazon B0HMJSKKRT BSR #2,082 Electronics (was #233), 13 ratings, only 7 left. Verdict: still early; launch spike cooling."
       ],
       "first_clear_signal": "2026-11-05",
       "trend_age_months": 0.2,
@@ -715,9 +719,10 @@
       },
       "stage_at_identification": "Early",
       "status": "watching",
-      "last_reviewed": "2026-11-11",
+      "last_reviewed": "2026-11-23",
       "review_notes": [
-        "2026-11-11: Early pick. First signal September 2026; earliest Amazon price history we have is 2026-10-03. Hip2Save 2026-10-07 (https://hip2save.com/deals/squeeze-please-squishy-toys/). TDmonthly 2026-10-22: No. 27 in Toys and No. 2 in Toys New Releases (https://www.toydirectory.com/monthly/article.asp?id=6580). Stormberry 2026-10-22 names it when NeeDoh is sold out (https://stormberry.net/blogs/squishy-news/needoh-sold-out-what-to-get-instead). US search interest for 'squeeze please' at zero until 2026-10-28, climbing since; no index printed. Where to buy B0H1DJM399; single B0H1DDC5B2. Jelly Gems are a different later squish."
+        "2026-11-11: Early pick. First signal September 2026; earliest Amazon price history we have is 2026-10-03. Hip2Save 2026-10-07 (https://hip2save.com/deals/squeeze-please-squishy-toys/). TDmonthly 2026-10-22: No. 27 in Toys and No. 2 in Toys New Releases (https://www.toydirectory.com/monthly/article.asp?id=6580). Stormberry 2026-10-22 names it when NeeDoh is sold out (https://stormberry.net/blogs/squishy-news/needoh-sold-out-what-to-get-instead). US search interest for 'squeeze please' at zero until 2026-10-28, climbing since; no index printed. Where to buy B0H1DJM399; single B0H1DDC5B2. Jelly Gems are a different later squish.",
+        "2026-11-23: Amazon 3-pack B0H1DJM399 2026-11-23: BSR #51 Toys & Games, #7 Squeeze Toys, 281 ratings, 10K+ bought in past month (single B0H1DNP9PS showed 1K+ on 2026-10-22 per TDmonthly https://www.toydirectory.com/monthly/article.asp?id=6580). US Trends 'squeeze please marshmallow' 12m max week of 2026-11-15. Still Amazon exclusive. Verdict: hit (so far)."
       ],
       "first_clear_signal": "2026-09",
       "trend_age_months": 2,
@@ -740,9 +745,10 @@
       },
       "stage_at_identification": "Early",
       "status": "watching",
-      "last_reviewed": "2026-11-11",
+      "last_reviewed": "2026-11-23",
       "review_notes": [
-        "2026-11-11: Early pick for the NFL line only. Parent Emotional Support Pals brand already existed. Preorders began 2026-09-01; press release 2026-09-03 (https://www.prnewswire.com/news-releases/relatable-teams-up-with-the-nfl-to-bring-emotional-support-to-football-fans-302868519.html). Hip2Save 2026-09-15, release scheduled 2026-11-01 (https://hip2save.com/deals/emotional-support-pals-nfl/). Toy Book launch (https://toybook.com/emotional-support-nfl-footballs-launch/). 12 teams. Where to buy B0H4HPNBVH. Trend age about 2.3 months from 2026-09-01 to 2026-11-11."
+        "2026-11-11: Early pick for the NFL line only. Parent Emotional Support Pals brand already existed. Preorders began 2026-09-01; press release 2026-09-03 (https://www.prnewswire.com/news-releases/relatable-teams-up-with-the-nfl-to-bring-emotional-support-to-football-fans-302868519.html). Hip2Save 2026-09-15, release scheduled 2026-11-01 (https://hip2save.com/deals/emotional-support-pals-nfl/). Toy Book launch (https://toybook.com/emotional-support-nfl-footballs-launch/). 12 teams. Where to buy B0H4HPNBVH. Trend age about 2.3 months from 2026-09-01 to 2026-11-11.",
+        "2026-11-23: Amazon B0H4HPNBVH (Bills) 2026-11-23: BSR #175 Toys & Games, #2 Plush Figure Toys, 262 ratings, 3K+ bought in past month; still Amazon exclusive. US Trends 'emotional support pals nfl' first non-zero week of 2026-11-08. Verdict: still early, strong Amazon traction."
       ],
       "first_clear_signal": "2026-09-01",
       "trend_age_months": 2.3,
@@ -2065,8 +2071,8 @@
       "why_not_pick": "Trends weekly peak on preorder week 2026-09-27 (=100) is above the current value (74/77/81) so the strict 'current = 12m max' gate fails. YouTube uploads are accelerating (17 in last ~4 weeks vs 2 the month before) and it sold out in the US.",
       "recheck": "Promote if Trends sets new 12m max before 2027-01-24 (6-month cutoff)",
       "score_estimate": "~55-65 (gate fails)",
-      "last_rechecked": "2026-11-20",
-      "recheck_note": "2026-11-20: US Trends sample still below an earlier peak (Sep 6-12 at 95; partial week Nov 15-21 at 85). Amazon B0HKJLY83D in stock, BSR #1,510 Electronics / #13 eBook Readers, 28 ratings. Stays on watchlist."
+      "last_rechecked": "2026-11-23",
+      "recheck_note": "2026-11-23: US Trends 'boox picco' 12m max still week of 2026-09-27 (100); latest full week 82, partial 69 - rule not met. Amazon B0HKJLY83D BSR #2,533 Electronics / #36 eBook Readers, 36 ratings, sold by BOOX Global. Stays on watchlist (cutoff 2027-01-24)."
     },
     {
       "name": "Losy Kim PDRN Tinted Lip Ampoule",
@@ -2081,8 +2087,8 @@
       "why_not_pick": "Not buyable on Amazon US right now, and Google Trends is the only accelerating US source. Trigger for the re-acceleration not documented yet. Wikipedia none, dupes 0/0, Olive Young Global Top Orders #7 (2026-11-01).",
       "recheck": "Promote via the sleeper exception if the brand's Amazon US listing is back in stock AND a second US source accelerates, with all mainstream checks still passing, before ~2027-05-01 (6 months from re-acceleration)",
       "keyword_planner": "not checked",
-      "last_rechecked": "2026-11-20",
-      "recheck_note": "2026-11-20: B0FR9G6H6K still Currently unavailable (no featured offer, BSR #402,131 Beauty / #836 Lip Stains, 50 ratings). US Trends peaked the week of Oct 25-31 and the partial week of Nov 15-21 was 22. Brand site still sold out. Stays on watchlist."
+      "last_rechecked": "2026-11-23",
+      "recheck_note": "2026-11-23: B0FR9G6H6K still Currently unavailable, BSR #407,788 Beauty / #847 Lip Stains, 50 ratings. US Trends 'losy kim' 100 week of 11-15, 0 in partial week of 11-22. Stays on watchlist."
     },
     {
       "name": "Salish Matter Kind Society mini plush clip blind pack",
@@ -2098,8 +2104,8 @@
       "why_not_pick": "Not buyable on Amazon US. Trends 'kind society plush' at 12m max (wk 2026-11-15), 'salish plush' rising since 2026-11-01, Amazon autocomplete shows 10 'kind society salish' queries, dupes 0. Creator Salish Matter has a Wikipedia article; the product does not.",
       "recheck": "Promote if an official Amazon US listing (brand or License 2 Play) appears before 2027-03-21 and all mainstream checks still pass (watch for big-box exclusives)",
       "keyword_planner": "not checked",
-      "last_rechecked": "2026-11-20",
-      "recheck_note": "2026-11-20: still no official Amazon US listing. Sampled US Trends points are week of Oct 25-31 at 100, Nov 8-14 at 75, partial week Nov 15-21 at 91. Stays on watchlist."
+      "last_rechecked": "2026-11-23",
+      "recheck_note": "2026-11-23: Amazon US search 'salish kind society plush clip' returned no results - no official listing. US Trends 'kind society plush' at 12m max in partial week of 11-22. Stays on watchlist (cutoff 2027-03-21)."
     },
     {
       "name": "SHURINK HOME ZAP PORE SHOT",
@@ -2115,8 +2121,8 @@
       "why_not_pick": "Korea and Japan demand is documented (Kakao preorders, Qoo10 Japan beauty-device No. 1 as of 2026-09-04), but the Amazon US offer is sold by Skederm Inc. and US Google Trends has no data for the product or the brand. Wikipedia: no product article; Classys company article only.",
       "recheck": "Promote only if SHURINK HOME or CLASSYS itself is the Amazon US seller, a US signal is accelerating, and every mainstream check still passes, before 2027-02-17",
       "keyword_planner": "not checked",
-      "last_rechecked": "2026-11-20",
-      "recheck_note": "2026-11-20: added. In stock at BSR #692,283 Beauty, 24 ratings, sold by Skederm Inc."
+      "last_rechecked": "2026-11-23",
+      "recheck_note": "2026-11-23: still sold by Skederm Inc.; BSR #203,715 Beauty / #384 Wrinkle & Anti-Aging Devices (was #692,283), 24 ratings. US Trends 'zap pore shot' no data; 'shurink' non-zero since week of 11-01 (27/34/30). Seller rule not met. Stays on watchlist."
     }
   ]
 }
