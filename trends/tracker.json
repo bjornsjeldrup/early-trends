@@ -742,11 +742,12 @@
       },
       "stage_at_identification": "Early",
       "status": "watching",
-      "last_reviewed": "2026-11-24",
+      "last_reviewed": "2026-11-27",
       "review_notes": [
         "2026-11-11: Early pick. First signal September 2026; earliest Amazon price history we have is 2026-10-03. Hip2Save 2026-10-07 (https://hip2save.com/deals/squeeze-please-squishy-toys/). TDmonthly 2026-10-22: No. 27 in Toys and No. 2 in Toys New Releases (https://www.toydirectory.com/monthly/article.asp?id=6580). Stormberry 2026-10-22 names it when NeeDoh is sold out (https://stormberry.net/blogs/squishy-news/needoh-sold-out-what-to-get-instead). US search interest for 'squeeze please' at zero until 2026-10-28, climbing since; no index printed. Where to buy B0H1DJM399; single B0H1DDC5B2. Jelly Gems are a different later squish.",
         "2026-11-23: Amazon 3-pack B0H1DJM399 2026-11-23: BSR #51 Toys & Games, #7 Squeeze Toys, 281 ratings, 10K+ bought in past month (single B0H1DNP9PS showed 1K+ on 2026-10-22 per TDmonthly https://www.toydirectory.com/monthly/article.asp?id=6580). US Trends 'squeeze please marshmallow' 12m max week of 2026-11-15. Still Amazon exclusive. Verdict: hit (so far).",
-        "2026-11-24: launch-spike check, 13 days after publication. US Trends 'squeeze please' peak 100 in the week of 2026-10-04; last full week (2026-11-15) 57; partial week of 2026-11-22 is 58. Not below half the peak. A one-week blip on 'squeeze please marshmallow' in December 2025 is before this product's first signal and was not used."
+        "2026-11-24: launch-spike check, 13 days after publication. US Trends 'squeeze please' peak 100 in the week of 2026-10-04; last full week (2026-11-15) 57; partial week of 2026-11-22 is 58. Not below half the peak. A one-week blip on 'squeeze please marshmallow' in December 2025 is before this product's first signal and was not used.",
+        "2026-11-27: launch-spike check, 16 days after publication. US Trends 'squeeze please' peak 100 in the week of 2026-10-04; last full week (2026-11-15) 55; partial week of 2026-11-22 is 57. The last complete week is not below half the peak, so launch_spike stays unset. The tighter query 'squeeze please marshmallow' is still at its high (last full week 83, partial week 100)."
       ],
       "first_clear_signal": "2026-09",
       "trend_age_months": 2,
@@ -769,11 +770,12 @@
       },
       "stage_at_identification": "Early",
       "status": "watching",
-      "last_reviewed": "2026-11-24",
+      "last_reviewed": "2026-11-27",
       "review_notes": [
         "2026-11-11: Early pick for the NFL line only. Parent Emotional Support Pals brand already existed. Preorders began 2026-09-01; press release 2026-09-03 (https://www.prnewswire.com/news-releases/relatable-teams-up-with-the-nfl-to-bring-emotional-support-to-football-fans-302868519.html). Hip2Save 2026-09-15, release scheduled 2026-11-01 (https://hip2save.com/deals/emotional-support-pals-nfl/). Toy Book launch (https://toybook.com/emotional-support-nfl-footballs-launch/). 12 teams. Where to buy B0H4HPNBVH. Trend age about 2.3 months from 2026-09-01 to 2026-11-11.",
         "2026-11-23: Amazon B0H4HPNBVH (Bills) 2026-11-23: BSR #175 Toys & Games, #2 Plush Figure Toys, 262 ratings, 3K+ bought in past month; still Amazon exclusive. US Trends 'emotional support pals nfl' first non-zero week of 2026-11-08. Verdict: still early, strong Amazon traction.",
-        "2026-11-24: launch-spike check, 13 days after publication. US Trends 'emotional support pals nfl' has one full week of data, the week of 2026-11-15 at 100. The partial week of 2026-11-22 reads 0 on a series that thin; not treated as a completed drop below half the peak."
+        "2026-11-24: launch-spike check, 13 days after publication. US Trends 'emotional support pals nfl' has one full week of data, the week of 2026-11-15 at 100. The partial week of 2026-11-22 reads 0 on a series that thin; not treated as a completed drop below half the peak.",
+        "2026-11-27: launch-spike check, 16 days after publication. US Trends 'emotional support pals nfl' still has one full week of data, the week of 2026-11-15 at 100. The partial week of 2026-11-22 reads 0 on a series that thin; not treated as a completed drop below half the peak. launch_spike stays unset."
       ],
       "first_clear_signal": "2026-09-01",
       "trend_age_months": 2.3,
@@ -2279,6 +2281,246 @@
       "reason": "The reachable Douyin beauty rank is led by established mass brands. None of them is an early US transfer with the brand selling on Amazon.",
       "outcome_3m": null,
       "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Boox Picco (watchlist recheck)",
+      "category": "tech-gadgets",
+      "signals": "Trends US 12m 'boox picco' (API 2026-11-27): peak 100 week of 2026-09-06; last full week 2026-11-15=79; partial week of 2026-11-22=65. Generic 'mini ereader' peak 100 week of 2026-04-12, last full=19, partial=21. Wikipedia: company article Onyx Boox exists; no Picco article found on earlier checks, API rate-limited today. Dupe suggestions: 'boox picco dupe' 2 (not dupe queries), 'boox dupe' 4 including Palma dupes; Amazon 0. TikTok hashtag views: not checked. Amazon B0HKJLY83D in stock, $109.99, 49 ratings, BSR #2,656 Electronics / #35 eBook Readers, 1K+ bought in the past month. Seller name did not render. Date First Available: not shown. Kickstarter: none. Asia ranking: not checked.",
+      "decision": "WATCHLIST",
+      "reason": "Last full week is 79 against a September peak of 100, so it still is not at a new 12-month high. Stays on the watchlist until 2027-01-24.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Losy Kim PDRN Tinted Lip Ampoule (watchlist recheck)",
+      "category": "beauty-makeup",
+      "signals": "Trends US 12m 'losy kim' (API 2026-11-27): peak 100 is the last full week 2026-11-15; partial week of 2026-11-22=86; first non-zero week 2026-11-08. Wikipedia: no product article (search hits were unrelated). Dupe suggestions: 'losy kim dupe' 0; Amazon 0. TikTok hashtag views: not checked. Amazon B0FR9G6H6K Currently unavailable, no featured offer, 50 ratings, BSR #402,168 Beauty & Personal Care / #819 Lip Stains. Brand US shop shades sold out. Date First Available: not shown. Kickstarter: none. Asia ranking: not rechecked this run.",
+      "decision": "WATCHLIST",
+      "reason": "Search interest is at the 12-month high, but the brand's Amazon listing is still unavailable and there is no second US source. Stays on the watchlist.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Salish Matter Kind Society mini plush clip blind pack (watchlist recheck)",
+      "category": "toys-collectibles",
+      "signals": "Trends US 12m 'kind society plush' (API 2026-11-27): last full week 2026-11-15=39; week of 2026-11-01=65; week of 2026-05-17=60; partial week of 2026-11-22=100 (not a completed week). Wikipedia: Salish Matter (the creator) has an article; no product article in the search results. Dupe suggestions: 'kind society dupe' 0; 'salish matter dupe' 2. Amazon autocomplete suggests the exact 5.5-inch pack title, but a live Amazon search returned other plush clips and no ASIN. ToyWiz out of stock. License 2 Play: not available for third-party sellers. TikTok hashtag views: not checked. Date First Available: none. Kickstarter: none. Asia ranking: not checked.",
+      "decision": "WATCHLIST",
+      "reason": "No confirmed official Amazon US listing. Stays on the watchlist until 2027-03-21.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "SHURINK HOME ZAP PORE SHOT (watchlist recheck)",
+      "category": "beauty-makeup",
+      "signals": "Trends US 12m 'zap pore shot' (API 2026-11-27): one full week, 2026-11-15=100; partial week of 2026-11-22=0. 'shurink' peak 100 week of 2026-03-01; last full week 26; partial 26. Wikipedia: API rate-limited today; earlier check found a Classys company article and no product article. Dupe suggestions: 'shurink dupe' 0, 'zap pore shot dupe' 0; Amazon 'zap pore shot' suggests the device and a serum, not dupes. TikTok hashtag views: not checked. Amazon B0H7JP5SQJ in stock, $199, sold by Skederm Inc., 26 ratings, BSR #297,646 Beauty & Personal Care / #555 Wrinkle & Anti-Aging Devices. Date First Available: not shown. Kickstarter: none. Asia: Korea preorders and a Qoo10 Japan beauty-device rank were already on the record; not a fresh US seller.",
+      "decision": "WATCHLIST",
+      "reason": "Still sold by Skederm Inc., not by SHURINK HOME or CLASSYS, and US search interest is a single thin week. Stays on the watchlist.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Vitamix Ion portable blender",
+      "category": "kitchen-dining",
+      "signals": "Trends US 12m 'vitamix ion' (API 2026-11-27): first non-zero week 2026-11-08=16, last full week 80, partial week of 2026-11-22=100 (current high). Generic 'portable blender' peak 100 week of 2026-04-12, last full week 3. Brand 'vitamix' peak 100 the same April week, last full 46, partial 57. Wikipedia: API rate-limited today. Dupe suggestions: 'vitamix ion dupe' 0; 'vitamix dupe' 10 including Ninja and retailer-style comparisons; Amazon 'vitamix dupe' 0. TikTok hashtag views: not checked. Amazon B0HNXZYQQG, 1 rating, listed price $129.95 on a search snippet. Launch press 2026-11-09, also at select retailers. Date First Available: not shown. Kickstarter: none. Asia ranking: not checked.",
+      "decision": "REJECT",
+      "reason": "The product name is new and still rising, but the generic portable-blender curve peaked in April and is now at 3, and 'vitamix dupe' returns 10 suggestions. A new blender from this brand does not clear the mainstream filter.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "ecozy Brezzano Switch",
+      "category": "kitchen-dining",
+      "signals": "Trends US 12m 'ecozy brezzano' (API 2026-11-27): peak 100 week of 2026-10-04, then zeros, last full week 7, partial 0. Generic 'espresso machine' peak 100 week of 2026-04-12, last full 54, partial 72. Wikipedia: API rate-limited. Dupe suggestions: 'ecozy dupe' 0, 'brezzano dupe' 0. Amazon autocomplete lists Brezzano Elite and Core beside the Switch. TikTok: not checked. Press launch 2026-11-07. An Appliance Insider note said the Amazon listing was sold by Ecozy Direct. Brezzano Elite launched 2025-12-04. Date First Available: not shown. Kickstarter: none. Asia: not checked.",
+      "decision": "REJECT",
+      "reason": "The Switch is a later model of the Brezzano espresso line, which started with the Elite on 2025-12-04, before the six-month cutoff. The name is already off its October peak, and generic espresso-machine interest peaked in April with the latest full week still at 54.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Pulped sparkling juice",
+      "category": "food-drink",
+      "signals": "Trends US 12m 'pulped' (API 2026-11-27): peak 100 week of 2026-03-01 (before this drink); launch week 2026-11-01=84, then 5, last full week 28, partial 27. Generic 'sparkling juice' peak 100 week of 2025-12-28, last full 27, partial 48. Wikipedia: API rate-limited. Dupe suggestions: 'pulped dupe' returned unrelated 'pulp' queries; 'pulped juice dupe' 0. TikTok: not checked. Amazon variety pack B0H8MBMCSP sold by Pulped, ships from Amazon, in stock, $39.99, 20 ratings, BSR #67,695 Grocery & Gourmet Food / #650 Fruit Juice Beverages. Press release 2026-10-30 syndicated on BevNET and Startup CPG, including the cafe list. Date First Available: not shown. Kickstarter: none. Asia: not checked.",
+      "decision": "REJECT",
+      "reason": "The brand does sell it on Amazon, but the only write-ups are the company's own release, and search interest fell from 84 in the launch week to 28. The generic sparkling-juice curve peaked about eleven months ago.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Jetty hydration drink",
+      "category": "food-drink",
+      "signals": "Trends US 12m 'jetty drink' (API 2026-11-27): first non-zero week 2026-10-11=15, peak 100 week of 2026-11-08, last full week 39, partial 15. Generic 'electrolyte drink' peak 100 week of 2026-04-12, last full 12. 'hydration powder' peak 100 the same April week, last full 5. Wikipedia: API rate-limited. Dupe suggestions: 'jetty drink dupe' 0, 'jetty hydration dupe' 0. TikTok: not checked. Beauty Independent 2026-11-20: launched 2026-11-09 at Whole Foods nationwide and online at Target and Amazon, with Target stores planned for early 2027. Date First Available: not shown. Kickstarter: none. Asia: not checked.",
+      "decision": "REJECT",
+      "reason": "Day-one Whole Foods and Target distribution is mass retail, the generic electrolyte and hydration curves peaked in April, and the brand query is already at 39 against a launch-week peak of 100.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "MOO100 Grapefruit Water Shampoo",
+      "category": "beauty-makeup",
+      "signals": "Trends US 12m 'moo100': no data. Generic 'grapefruit shampoo' peak 100 week of 2026-04-12, last full week 7, partial 6. Wikipedia: API rate-limited. Dupe suggestions: 'moo100 dupe' 0. TikTok: not checked. Press release 2026-10-29 says the Amazon US launch is October 2026 and that the shampoo sold more than 1 million bottles in Korea through June 2025. Amazon autocomplete returns the shampoo name only. Date First Available: not shown. Kickstarter: none. Asia: company-reported Korea salon use, not a fresh public ranking this run.",
+      "decision": "REJECT",
+      "reason": "US search has no data for the brand, the generic shampoo term peaked in April, and the only US source is the launch press release. The Korean product was already a million-bottle seller before this Amazon listing.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Hello Jane! Happy Melts",
+      "category": "health-wellness",
+      "signals": "Trends US 12m 'hello jane kanna': no data. Wikipedia: API rate-limited. Dupe suggestions: not checked. TikTok: not checked. Startup CPG release November 2026: kanna (Sceletium tortuosum) melts from the founders of Mary & Jane, sold on Amazon and at Pop Up Grocer, framed as an alternative as hemp-derived THC products face a federal ban. Date First Available: not shown. Kickstarter: none. Asia: not checked.",
+      "decision": "REJECT",
+      "reason": "A kanna mood product from a hemp brand, pitched as a replacement when hemp THC leaves the market, is outside the wholesome non-drug rule.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Wet Noses Purrks cat treats",
+      "category": "pet-supplies",
+      "signals": "Trends US 12m 'purrks' (API 2026-11-27): peak 100 week of 2026-01-11, before the 2026-06-22 launch; last full week 13, partial 23. Generic 'cat treats' peak 100 week of 2026-04-05, last full 37, partial 39. Wikipedia: API rate-limited. Dupe suggestions: 'purrks dupe' 0, 'wet noses dupe' 0. Amazon autocomplete has 'purrks cat treats'. TikTok: not checked. PR Newswire 2026-06-22: new line, also on Chewy and Petco. Date First Available: not shown. Kickstarter: none. Asia: not checked.",
+      "decision": "REJECT",
+      "reason": "The name and the generic cat-treats curve both peaked earlier in 2026, and the June launch was a new line from an established pet brand already in Petco and Chewy. No second source is accelerating now.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Birdie Bakes Apple Cinnamon muffin mix",
+      "category": "food-drink",
+      "signals": "Trends US 12m 'birdie bakes': no data. Generic 'muffin mix' partial week of 2026-11-22=100, last full week 65, and the series is non-zero all year. Wikipedia: not checked. Dupe suggestions: not checked. TikTok: not checked. Startup CPG 2026-11-11: Apple Cinnamon is the second SKU; the brand launched in 2025 and the banana mix had already sold out twice, including at Good Eggs. Amazon Prime launch planned for mid-November. Date First Available: not shown. Kickstarter: none. Asia: not checked.",
+      "decision": "REJECT",
+      "reason": "Apple Cinnamon is a new flavor of a muffin-mix line the brand has sold since 2025, so it inherits that line's age.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Day Out Snacks Peppermint Bark protein balls",
+      "category": "food-drink",
+      "signals": "Trends: not pulled. Wikipedia: not checked. Dupe suggestions: not checked. TikTok: not checked. PR Newswire 2026-11-11: limited holiday return of the flavor that sold out in its 2025 debut, on the brand site and Amazon. Date First Available: not shown. Kickstarter: none. Asia: not checked.",
+      "decision": "REJECT",
+      "reason": "A seasonal return of a 2025 flavor inherits that line's age.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Festive Chickpeas restock",
+      "category": "food-drink",
+      "signals": "Trends US 12m 'festive chickpeas': no data. Generic 'roasted chickpeas' peak 100 week of 2026-01-04, last full week 63, partial 53. Wikipedia: not checked. Dupe suggestions: not checked. TikTok: not checked. BevNET newswire 2026-11-16: back in stock on Amazon after a sellout, also at SnackFestive.com, Walmart.com, and select specialty retailers. Date First Available: not shown. Kickstarter: none. Asia: not checked.",
+      "decision": "REJECT",
+      "reason": "This is a restock of an existing chickpea line that is already on Walmart.com, and the generic roasted-chickpea curve peaked in January with the latest full week still at 63.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Levoit Eleva 300X air purifier",
+      "category": "home-decor",
+      "signals": "Trends US 12m 'levoit eleva' (API 2026-11-27): first non-zero week 2026-08-09; partial week of 2026-11-22=100; last full week 61; several zero weeks in between. Generic 'air purifier' peak 100 week of 2026-04-12, last full 21, partial 25. Wikipedia: API rate-limited. Dupe suggestions: not checked. TikTok: not checked. PR Newswire 2026-08-28: Eleva 300X on Amazon and Levoit.com. Date First Available: not shown. Kickstarter: none. Asia: not checked.",
+      "decision": "REJECT",
+      "reason": "A new model in Levoit's existing air-purifier line. The generic air-purifier curve peaked in April.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Monster Jam x Transformers 1:64 4-pack",
+      "category": "toys-collectibles",
+      "signals": "Trends US 12m 'monster jam transformers' (API 2026-11-27): peak 100 week of 2026-11-01, last full week 49, partial 68; first non-zero week 2026-07-26. Wikipedia: not reconfirmed this run (API rate-limited); both franchises are long-running. Dupe suggestions: 'monster jam dupe' 4 and none are dupe queries; 'transformers dupe' 5. TikTok: not checked. Amazon-exclusive 4-pack announced for 2026-11-02 (People of Play, 2026-10-29). Date First Available: not shown. Kickstarter: none. Asia: not checked.",
+      "decision": "REJECT",
+      "reason": "A new Amazon-exclusive deco of Monster Jam and Transformers inherits those lines. It is not a new product line.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Pop Mart POLAR Season 4 Snow City Residents",
+      "category": "toys-collectibles",
+      "signals": "Trends: not pulled. Wikipedia: API rate-limited. Dupe suggestions: not checked. TikTok: not checked. Pop Mart US lists the series with an online release of 2026-11-05. No official Pop Mart Amazon US listing was part of that page. Asia: Pop Mart's own US shop, a new season of an existing character line. Kickstarter: none.",
+      "decision": "REJECT",
+      "reason": "Season 4 of an existing Pop Mart series, sold on Pop Mart's site. A new season inherits the line, and the brand was not the Amazon seller.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Ninja Bone & Champagne collection",
+      "category": "kitchen-dining",
+      "signals": "Trends: not pulled. Wikipedia: not checked. Dupe suggestions: not checked. TikTok: not checked. Bargain Hunter 2026-11-06: Amazon-exclusive Bone & Champagne colorway across existing Ninja air fryers, blenders, multicookers, and cookware. Date First Available: not shown. Kickstarter: none. Asia: not checked.",
+      "decision": "REJECT",
+      "reason": "A new colorway of Ninja appliances that are already in market. The color does not reset the age of those lines.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Campbell's Protein Soups",
+      "category": "food-drink",
+      "signals": "Trends: not pulled. Wikipedia: not checked. Dupe suggestions: not checked. TikTok: not checked. Campbell's press release 2026-07-14: five protein soups rolling out to Amazon and retailers nationwide. Date First Available: not shown. Kickstarter: none. Asia: not checked.",
+      "decision": "REJECT",
+      "reason": "A new variety line from Campbell's, already headed to national retail. It inherits the soup brand, which is far older than six months.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "ONE x Reese's layered protein bar",
+      "category": "food-drink",
+      "signals": "Trends: not pulled. Wikipedia: not checked. Dupe suggestions: not checked. TikTok: not checked. Hershey/ONE release 2026-06-18: a Reese's-flavored layered bar, available on Amazon. Date First Available: not shown. Kickstarter: none. Asia: not checked.",
+      "decision": "REJECT",
+      "reason": "A new flavor of the existing ONE protein-bar line, with a national candy brand attached.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Rangemate Signature microwave grill pan",
+      "category": "kitchen-dining",
+      "signals": "Trends: not pulled. Wikipedia: not checked. Dupe suggestions: not checked. TikTok: not checked. EIN Presswire 2026-08-18: Amazon US launch in July 2026, after a Kickstarter that raised over $138,000 in late 2025 and a QVC US day the company says sold 110,000 units. Date First Available: not shown. Asia: Korean brand, already through QVC before Amazon.",
+      "decision": "REJECT",
+      "reason": "The Kickstarter finished in late 2025 and the pan was already a QVC seller before the Amazon listing. A finished campaign at retail is old.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "LAVANAĒ Spark serum and Seal cream",
+      "category": "beauty-makeup",
+      "signals": "Trends: not pulled. Wikipedia: not checked. Dupe suggestions: not checked. TikTok: not checked. Beauty Independent 2026-11-12: two-product Ayurvedic skincare launch, direct-to-consumer only, founder said retail would wait. No Amazon listing in that report. Kickstarter: none. Asia: not checked.",
+      "decision": "REJECT",
+      "reason": "Not sold on Amazon. The brand is direct-to-consumer only.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Bull Airs x Carl the Collector",
+      "category": "fashion-apparel",
+      "signals": "Trends: not pulled. Wikipedia: not checked. Dupe suggestions: not checked. TikTok: not checked. Licensing International 2026-09-18: apparel and sneakers dropped on BullAirs.com. The PBS series launched November 2024. No brand Amazon listing in that report. Kickstarter: none. Asia: not checked.",
+      "decision": "REJECT",
+      "reason": "Sold on the brand site, not on Amazon, and it is licensed apparel for a series that has been on air since 2024.",
+      "outcome_3m": null,
+      "outcome_6m": null
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Olive Young Global bestsellers, 2026-11-25",
+      "category": "beauty-makeup",
+      "signals": "Olive Young Global ranking read via OY Finder, dated 2026-11-25: Mediheal mask set, AESTURA Atobarrier 365 cream set, d'Alba White Truffle spray set lead the list. A separate week-46 note put the same AESTURA cream at No. 1 in Korea and on Olive Young US. Trends, Wikipedia, dupes, TikTok, and Amazon seller were not re-pulled for these established lines. Asia ranking: yes, the public global bestseller list.",
+      "decision": "REJECT",
+      "reason": "The reachable Olive Young list is still led by established K-beauty lines. None is a new US transfer with the brand selling it on Amazon as an early signal.",
+      "outcome_3m": null,
+      "outcome_6m": null
     }
   ],
   "watchlist": [
@@ -2296,8 +2538,8 @@
       "why_not_pick": "Trends weekly peak on preorder week 2026-09-27 (=100) is above the current value (74/77/81) so the strict 'current = 12m max' gate fails. YouTube uploads are accelerating (17 in last ~4 weeks vs 2 the month before) and it sold out in the US.",
       "recheck": "Promote if Trends sets new 12m max before 2027-01-24 (6-month cutoff)",
       "score_estimate": "~55-65 (gate fails)",
-      "last_rechecked": "2026-11-24",
-      "recheck_note": "2026-11-24: US Trends 'boox picco' 12-month max is still the week of 2026-09-27 (100). Last full week (2026-11-15) 83; partial week of 2026-11-22 is 72. Generic 'mini ereader' peaked the week of 2026-04-12 (100); partial week is 22. Amazon B0HKJLY83D is in stock, sold by BOOX Global, BSR #2,568 in Electronics and #36 in eBook Readers, 41 ratings. Peak gate still fails. Stays on the watchlist until 2027-01-24."
+      "last_rechecked": "2026-11-27",
+      "recheck_note": "2026-11-27: US Trends 'boox picco' 12-month max is the week of 2026-09-06 (100). Last full week (2026-11-15) 79; partial week of 2026-11-22 is 65. Generic 'mini ereader' peaked the week of 2026-04-12 (100); last full week 19. Amazon B0HKJLY83D is in stock at $109.99, 49 ratings, BSR #2,656 in Electronics and #35 in eBook Readers, 1K+ bought in the past month, 20 left. The seller name did not render on this fetch; the listing is still the BOOX Picco page. Peak gate still fails. Stays on the watchlist until 2027-01-24."
     },
     {
       "name": "Losy Kim PDRN Tinted Lip Ampoule",
@@ -2312,8 +2554,8 @@
       "why_not_pick": "Not buyable on Amazon US right now, and Google Trends is the only accelerating US source. Trigger for the re-acceleration not documented yet. Wikipedia none, dupes 0/0, Olive Young Global Top Orders #7 (2026-11-01).",
       "recheck": "Promote via the sleeper exception if the brand's Amazon US listing is back in stock AND a second US source accelerates, with all mainstream checks still passing, before ~2027-05-01 (6 months from re-acceleration)",
       "keyword_planner": "not checked",
-      "last_rechecked": "2026-11-24",
-      "recheck_note": "2026-11-24: B0FR9G6H6K is still Currently unavailable. BSR #408,850 in Beauty & Personal Care and #829 in Lip Stains, 50 ratings. US Trends 'losy kim' 12-month max is the last full week (2026-11-15 = 100); partial week of 2026-11-22 is 66. Still not buyable, and no second US source. Stays on the watchlist."
+      "last_rechecked": "2026-11-27",
+      "recheck_note": "2026-11-27: B0FR9G6H6K is still Currently unavailable, no featured offer. BSR #402,168 in Beauty & Personal Care and #819 in Lip Stains, 50 ratings. The brand's own US shop still shows the shades sold out. US Trends 'losy kim' 12-month max is the last full week (2026-11-15 = 100); partial week of 2026-11-22 is 86. Still not buyable, and no second US source. Stays on the watchlist."
     },
     {
       "name": "Salish Matter Kind Society mini plush clip blind pack",
@@ -2329,8 +2571,8 @@
       "why_not_pick": "Not buyable on Amazon US. Trends 'kind society plush' at 12m max (wk 2026-11-15), 'salish plush' rising since 2026-11-01, Amazon autocomplete shows 10 'kind society salish' queries, dupes 0. Creator Salish Matter has a Wikipedia article; the product does not.",
       "recheck": "Promote if an official Amazon US listing (brand or License 2 Play) appears before 2027-03-21 and all mainstream checks still pass (watch for big-box exclusives)",
       "keyword_planner": "not checked",
-      "last_rechecked": "2026-11-24",
-      "recheck_note": "2026-11-24: Amazon US search 'salish kind society plush clip' returned other plush clips, not this pack. US Trends 'kind society plush' peaked the week of 2026-11-01 (100); last full week 54; partial week of 2026-11-22 is 74, still under that peak. Stays on the watchlist until 2027-03-21."
+      "last_rechecked": "2026-11-27",
+      "recheck_note": "2026-11-27: Amazon US search for 'salish kind society 5.5-inch plush clip' returned other plush clips, not this pack, and no ASIN was confirmed. Autocomplete now suggests that exact title. ToyWiz is out of stock. License 2 Play still says not available for third-party sellers. US Trends 'kind society plush': last full week (2026-11-15) 39; the week of 2026-11-01 was 65; partial week of 2026-11-22 reads 100 and is not a completed week. Stays on the watchlist until 2027-03-21."
     },
     {
       "name": "SHURINK HOME ZAP PORE SHOT",
@@ -2346,8 +2588,8 @@
       "why_not_pick": "Korea and Japan demand is documented (Kakao preorders, Qoo10 Japan beauty-device No. 1 as of 2026-09-04), but the Amazon US offer is sold by Skederm Inc. and US Google Trends has no data for the product or the brand. Wikipedia: no product article; Classys company article only.",
       "recheck": "Promote only if SHURINK HOME or CLASSYS itself is the Amazon US seller, a US signal is accelerating, and every mainstream check still passes, before 2027-02-17",
       "keyword_planner": "not checked",
-      "last_rechecked": "2026-11-24",
-      "recheck_note": "2026-11-24: still sold by Skederm Inc., in stock. BSR #162,609 in Beauty & Personal Care and #315 in Wrinkle & Anti-Aging Devices, 24 ratings. US Trends 'zap pore shot' has no data. 'shurink' peaked the week of 2026-03-22 (100); partial week is 20. Seller rule not met. Stays on the watchlist."
+      "last_rechecked": "2026-11-27",
+      "recheck_note": "2026-11-27: still sold by Skederm Inc., in stock at $199. BSR #297,646 in Beauty & Personal Care and #555 in Wrinkle & Anti-Aging Devices, 26 ratings. US Trends 'zap pore shot' has one full week, 2026-11-15 at 100, and the partial week of 2026-11-22 reads 0. 'shurink' peaked the week of 2026-03-01 (100); last full week 26. Seller rule not met. Stays on the watchlist."
     }
   ]
 }
